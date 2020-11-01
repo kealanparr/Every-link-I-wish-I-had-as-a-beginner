@@ -339,6 +339,10 @@ http://www.pascalvangemert.nl/#/abilities
 <!-- Section I want to: START -->
 
 # I want to find
+
+## Find a mentor
+https://mentors.codingcoach.io/  
+
 ## Find a good YouTube channel
 ### About Programming
 https://github.com/JoseDeFreitas/awesome-youtubers - Awesome list of the best YouTubers grouped by category
@@ -447,6 +451,7 @@ https://github.com/ForrestKnight/open-source-cs
 
 ## Find high quality podcasts
 https://www.swyx.io/fave-podcasts/  
+https://freecodecamp.libsyn.com/  
 https://devchat.tv/  
 https://player.fm/featured/tech  
 https://github.com/PizzaPokerGuy/ultimate-coding-resources 
@@ -794,6 +799,7 @@ https://research.hackerrank.com/developer-skills/2019/ - Developer data from Hac
 https://research.hackerrank.com/developer-skills/2020/ - Developer data from HackerRank from 2020  
 
 ## Big O Notation  
+https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation  
 https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/  
 https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174  
 https://www.bigocheatsheet.com/  
