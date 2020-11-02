@@ -34,11 +34,14 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Regular to Senior - Dev ops](#Regular-to-Senior-developer-2)  
 [Junior to regular developer - React native dev](#Junior-to-regular-developer-3)  
 [Regular to Senior - React native dev](#Regular-to-Senior-developer-3)  
+[In a senior technical position looking to move to Staff](#In-a-senior-technical-position-looking-to-move-to-Staff-1)  
 #### [I have](#I-have-1)
 [Impostor Syndrome](#Impostor-Syndrome)  
 [Motivation issues](#Motivation-issues)  
 [Coders/designers block](#Codersdesigners-block)  
-#### [I want to find a good YouTube channel](#I-want-to-find-a-good-YouTube-channel)
+[A feeling of burnout](#A-feeling-of-burnout-1)  
+#### [Find a mentor](#Find-a-mentor-1)
+#### [I want to find a good YouTube channel](#Find-a-good-YouTube-channel-1)
 [Programming](#Programming)  
 [Math](#Math)  
 [AI](#AI)  
@@ -66,6 +69,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [In JavaScript](#In-JavaScript)  
 [In Go](#In-Go)  
 [In Typescript](#In-Typescript)  
+#### [I want to review some software laws](#I-want-to-review-some-software-laws)
 #### [I want to read a language style guide from Google to Airbnb](#Read-a-language-style-guide-from-Google-to-Airbnb)
 [In C++](#In-C)  
 [In Objective-C](#In-Objective-C)  
@@ -177,6 +181,8 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [ML courses](#ML-courses)  
 #### [Fundamentals of comp sci](#Fundamentals-of-comp-sci-1)
 [Queueing theory ](#Queueing-theory)  
+#### [Learn about website best practices](#Learn-about-website-best-practices-1)  
+#### [Learn the AHA principle](#Learn-the-AHA-principle-1)  
 #### [Roadmaps](#Roadmaps)  
 #### [Language specific section](#Language-specific-section-1)
 #### [Learn CSS](#Learn-CSS-1)
@@ -272,6 +278,9 @@ https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/J
 ###  Regular to Senior developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md - A technical roadmap (useful as a base)  
 
+## In a senior technical position looking to move to Staff
+https://staffeng.com/guides/  
+
 <!-- Section I am a: END -->
 
 <!-- Section I have: START -->
@@ -312,6 +321,9 @@ https://i.imgur.com/yNLCC90.jpg - Fascinating path of Elon Musk's journey to suc
 https://www.stilldrinking.org/programming-sucks - Programming can suck sometimes!  
 https://www.freecodecamp.org/news/how-to-use-deliberate-practice-to-learn-programming-fast/ - Use Deliberate Practice to improve  
 https://www.reddit.com/r/learnprogramming/comments/7yltpt/read_this_if_you_feel_perpetually_stuck_in_the/ - Read this if you feel perpetually stuck in the beginner phase  
+
+## A feeling of burnout
+https://hn.algolia.com/?q=burnout  
 
 ## Coders/designers block
 > Struggling to design something? Plan out a website UI? Get inspired by other designers/front end developers incredible vision for their own sites  
@@ -552,6 +564,15 @@ https://verraes.net/2020/01/wall-of-technical-debt/
 https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb   
 https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/  
 http://antirez.com/news/112  
+
+## I want to review some software laws
+https://www.hyrumslaw.com/ - Hyrums Law  
+https://en.wikipedia.org/wiki/Peter_principle - Peter Principle  
+https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/ - 10 commandments of egoless programming  
+https://meta.wikimedia.org/wiki/Cunningham%27s_Law - Cunningham's Law  
+https://en.wikipedia.org/wiki/Moore's_law - Moore's law  
+https://josephwoodward.co.uk/2020/04/software-the-chestertons-fence-principle - Chestertons Fence  
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month - The Mythical Man Moth  
 
 # I want to follow  
 ## Follow something through start to end
@@ -926,6 +947,11 @@ https://github.com/joelparkerhenderson/queueing_theory
 ## Learn about website best practices
 https://developers.google.com/web/ilt/pwa/  
 
+## Learn the AHA principle
+https://kentcdodds.com/blog/aha-programming/  
+https://stackoverflow.blog/2010/11/16/dr-strangedupe-or-how-i-learned-to-stop-worrying-and-love-duplication/  
+https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase  
+
 ## git  
 https://learngitbranching.js.org/ - New to git branching? Get some practice here!
 
@@ -1080,3 +1106,171 @@ https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
 
 <!-- Section I want to: END -->
+
+
+
+
+
+
+
+
+soft skills of developers
+http://chadfowler.com/2013/04/09/who-i-want-to-hire.html
+
+aws cloud study cert
+https://www.selikoff.net/2019/01/20/how-i-recommend-studying-for-the-aws-certified-cloud-practitioner-exam/
+
+ways to be better
+https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+https://kealanparr.dev/4-biggest-tips-to-improve-as-a-developer
+https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+https://www.businessinsider.com/the-meanings-of-googliness-2013-8?r=US&IR=T
+https://overreacted.io/goodbye-clean-code/
+#On being a senior/ staff eng
+https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+https://staffeng.com/stories
+
+Nice designs
+https://animalmade.com/
+http://y78.fr/
+https://resn.co.nz/
+https://caferati.me/portfolio
+https://kuon.space/#reile
+https://moonfarmer.com/
+https://titusklein.com/
+http://www.jennyjohannesson.com/
+http://riccardozanutta.com/
+
+event loop
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
+Microcontroller
+https://www.espruino.com/
+Arduino
+Rasberry Pi
+
+iOS
+Things you should defo know
+https://medium.com/swlh/things-you-should-definitely-know-as-an-ios-developer-part-1-dbfadc5fd5ed
+https://medium.com/swlh/things-you-should-definitely-know-as-an-ios-developer-part-2-1182402dec20
+
+gcd
+https://developer.apple.com/videos/play/wwdc2016/720/
+https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2
+https://www.appcoda.com/grand-central-dispatch/
+https://medium.com/@JoyceMatos/grand-central-dispatch-swift-3-93f995c15fd2#:~:text=Grand%20Central%20Dispatch%2C%20or%20GCD%2C%20is%20a%20way%20to%20handle,ultimately%20managed%20by%20the%20system.
+https://medium.com/better-programming/threading-in-swift-simply-explained-5c8dd680b9b2
+app lifecycle
+https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b
+https://candostdagdeviren.com/ios-view-lifecycle/
+https://guides.codepath.com/ios/View-Controller-Lifecycle
+https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
+To read
+https://nshipster.com/
+
+Cheatsheets swift
+https://github.com/iwasrobbed/Swift-CheatSheet
+
+fascinatng reads
+http://boringtechnology.club/#23
+
+emergency, must fix, 
+https://google.github.io/eng-practices/review/emergencies.html
+
+testing
+https://kentcdodds.com/blog/write-tests
+https://engineering.atspotify.com/2018/01/11/testing-of-microservices/
+
+beginner first steps
+https://stackoverflow.blog/2019/08/07/what-every-developer-should-learn-early-on/
+
+algo and data structs
+Swift
+https://github.com/raywenderlich/swift-algorithm-club
+
+Get your first tech job
+https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
+https://text.npr.org/133474431
+
+Technical leadership/manager
+https://keavy.com/work/thriving-on-the-technical-leadership-path/
+no.lol/2019-03-09-should-i-become-a-tech-lead/
+https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/
+
+naming
+https://www.swyx.io/how-to-name-things/
+
+technical writting
+https://reid.medium.com/those-who-teach-can-do-98a30e9a74ea
+https://developers.google.com/tech-writing
+https://gist.github.com/zsup/9434452
+
+salary negociation
+https://kalzumeus.com/2012/01/23/salary-negotiation/
+
+good blogs to follow
+https://chriscoyier.net/blog/
+
+laugh
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9
+https://circleci.com/blog/its-the-future/
+https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
+
+open ai writting
+https://openai.com/
+
+ts exercises
+https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts
+
+How to improve and understand stack overflow
+https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
+
+learn how to learn
+https://www.swyx.io/big-l-notation/
+
+reverse interview
+https://github.com/viraptor/reverse-interview
+
+learn css
+https://frontendmasters.com/courses/css-in-depth-v2/
+https://www.youtube.com/watch?v=u00FY9vADfQ&feature=youtu.be
+https://courses.thecssworkshop.com/
+https://scrimba.com/learn/htmlcss
+css animations
+https://scrimba.com/learn/cssanimations
+every layout for css
+https://every-layout.dev/layouts/stack/
+
+Type of log seriousness levels
+https://en.wikipedia.org/wiki/Syslog#Severity_level
+
+design patterns
+https://springframework.guru/gang-of-four-design-patterns/
+
+tech debt
+https://guides.hashicorp.now.sh/general-code/tech-debt#what-if-you-discover-technical-debt
+https://twitter.com/jessitron/status/1123310331957145601
+https://lethain.com/migrations/
+https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+https://guides.hashicorp.now.sh/general-code/tech-debt#what-is-technical-debt
+
+learn in public
+https://chriscoyier.net/2012/09/23/working-in-public/
+https://www.swyx.io/learn-in-public/
+
+how i write back ends
+https://github.com/fpereiro/backendlore#user-content-notification
+
+cyber security career
+https://danielmiessler.com/blog/build-successful-infosec-career/
+
+mobile developer career
+https://blog.bitsrc.io/how-to-start-a-career-as-a-mobile-developer-d63f197ad501
+
+architecture
+https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler
+
+shift left
+https://www.infostretch.com/resources/white-papers/shift-left/
