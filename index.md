@@ -1114,11 +1114,13 @@ https://www.udacity.com/course/advanced-android-with-kotlin--ud940
 
 
 
+<!-- 
 soft skills of developers
 http://chadfowler.com/2013/04/09/who-i-want-to-hire.html
 
 aws cloud study cert
 https://www.selikoff.net/2019/01/20/how-i-recommend-studying-for-the-aws-certified-cloud-practitioner-exam/
+
 
 ways to be better
 https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil
@@ -1274,3 +1276,4 @@ https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler
 
 shift left
 https://www.infostretch.com/resources/white-papers/shift-left/
+-->
