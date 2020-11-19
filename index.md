@@ -36,6 +36,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Regular to Senior - React native dev](#Regular-to-Senior-developer-3)  
 [In a senior technical position looking to move to Staff](#In-a-senior-technical-position-looking-to-move-to-Staff-1)  
 #### [I have](#I-have-1)
+[RSI sympytoms](#RSI-sympytoms)  
 [Impostor Syndrome](#Impostor-Syndrome)  
 [Motivation issues](#Motivation-issues)  
 [Coders/designers block](#Codersdesigners-block)  
@@ -123,6 +124,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Facebook](#Facebook)  
 [Airbnb](#Airbnb)  
 #### [I want to learn about](#I-want-to-learn-about-1)
+[Software development approaches](#Software-development-approaches)  
 [Progressive web apps](#Progressive-web-apps)  
 [Data science](#Data-science)  
 [Internet overview](#Internet-overview)  
@@ -286,6 +288,9 @@ https://staffeng.com/guides/
 <!-- Section I have: START -->
 # I have
 
+## RSI sympytoms
+https://www.swyx.io/rsi-tips/  
+
 ## Impostor Syndrome  
 > "Imposter syndrome is the belief that everyone isn intellectual collosus on one hand, and incapable of properly judging your work on the other. Be kind to yourself. Imagine giving yourself the same trust that you already know how to extend to others" - Jules Glegg, Software Architect  
 > "It's not that im so smart, I just stay with problems longer" - Albert Einstein  
@@ -321,6 +326,7 @@ https://i.imgur.com/yNLCC90.jpg - Fascinating path of Elon Musk's journey to suc
 https://www.stilldrinking.org/programming-sucks - Programming can suck sometimes!  
 https://www.freecodecamp.org/news/how-to-use-deliberate-practice-to-learn-programming-fast/ - Use Deliberate Practice to improve  
 https://www.reddit.com/r/learnprogramming/comments/7yltpt/read_this_if_you_feel_perpetually_stuck_in_the/ - Read this if you feel perpetually stuck in the beginner phase  
+https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing - Don't end the week with nothing to show  
 
 ## A feeling of burnout
 https://hn.algolia.com/?q=burnout  
@@ -564,6 +570,9 @@ https://verraes.net/2020/01/wall-of-technical-debt/
 https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb   
 https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/  
 http://antirez.com/news/112  
+https://www.swyx.io/collapsing-layers/  
+https://www.swyx.io/big-l-notation/  
+https://overreacted.io/things-i-dont-know-as-of-2018/ - Dan Abramov talking about what he doesn't know  
 
 ## I want to review some software laws
 https://www.hyrumslaw.com/ - Hyrums Law  
@@ -715,7 +724,13 @@ https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions
 
 # I want to learn about
 
-### Progressive web apps
+## Software development approaches
+### Test driven development
+### Behaviour driven development
+### Document driven development
+https://gist.github.com/zsup/9434452  
+
+## Progressive web apps
 https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps  
 
 ## Data science
@@ -1164,11 +1179,14 @@ https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-p
 https://www.appcoda.com/grand-central-dispatch/
 https://medium.com/@JoyceMatos/grand-central-dispatch-swift-3-93f995c15fd2#:~:text=Grand%20Central%20Dispatch%2C%20or%20GCD%2C%20is%20a%20way%20to%20handle,ultimately%20managed%20by%20the%20system.
 https://medium.com/better-programming/threading-in-swift-simply-explained-5c8dd680b9b2
-app lifecycle
+
+iOS app lifecycle
 https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b
 https://candostdagdeviren.com/ios-view-lifecycle/
 https://guides.codepath.com/ios/View-Controller-Lifecycle
 https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
+https://candostdagdeviren.com/ios-view-lifecycle/
+
 To read
 https://nshipster.com/
 
@@ -1208,6 +1226,7 @@ technical writting
 https://reid.medium.com/those-who-teach-can-do-98a30e9a74ea
 https://developers.google.com/tech-writing
 https://gist.github.com/zsup/9434452
+https://training.kalzumeus.com/newsletters/archive/content-marketing-strategy
 
 salary negociation
 https://kalzumeus.com/2012/01/23/salary-negotiation/
@@ -1276,22 +1295,6 @@ https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler
 
 shift left
 https://www.infostretch.com/resources/white-papers/shift-left/
-
-
-
-
-
-
-
-=============================================
-=============================================
-=============================================
-=============================================
-=============================================
-=============================================
-=============================================
-=============================================
-
 
 
 https://www.youtube.com/watch?v=MQGe9zxlRdk - Maggie Appleton—Drawing the Invisible—Women of React 2020 - YouTube
@@ -1471,7 +1474,6 @@ https://www.youtube.com/watch?v=djKPtyXhaNE - The Case Against GraphQL - Robert 
 https://www.youtube.com/watch?v=BcVAq3YFiuc - Michael Jackson - Never Write Another HoC - YouTube
 https://www.youtube.com/watch?v=o_4EX4dPppA - "The Hard Parts of Open Source" by Evan Czaplicki - YouTube
 https://www.youtube.com/watch?v=uGlzRt-FYto - “What is Success?” by Evan Czaplicki - YouTube
-https://www.youtube.com/watch?v=34_L7t7fD_U - YouTube
 https://www.youtube.com/watch?v=JuI6NUbEzDw&feature=emb_title - Write the Docs Prague 2017: Even Naming This Talk Is Hard by Ruthie BenDor - YouTube
 https://www.youtube.com/watch?v=gCroOiPRfw0 - How I Write CFPs (apply to speak at a conference) - YouTube
 https://github.com/sw-yx/swyxdotio/tree/master/content/ - swyxdotio/content at master · sw-yx/swyxdotio · GitHub
@@ -1623,15 +1625,7 @@ https://diaryemail.com/ - Diary Email
 https://www.writenext.io/ - Make Writing a Habit - WriteNext
 https://www.youtube.com/watch?v=NSUa1124ahs - #learnInPublic by Tan Li Hau - YouTube
 
-
-
-
-
-
-
-
-
-
-
+Learn about https
+https://doesmysiteneedhttps.com/ - Does my site need HTTPS?
 
 -->
