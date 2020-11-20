@@ -1101,6 +1101,7 @@ https://www.typescriptlang.org/docs/
 ### Advanced types
 https://www.typescriptlang.org/docs/handbook/advanced-types.html  
 ### Generics in TypeScript
+https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts - Advanced typing exercises in TypeScript  
 https://www.typescriptlang.org/docs/handbook/generics.html - Generics, symbols & advanced types  
 https://typescript-exercises.github.io/  
 ### Intersection and union types
@@ -1241,9 +1242,6 @@ https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped
 
 open ai writting
 https://openai.com/
-
-ts exercises
-https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts
 
 How to improve and understand stack overflow
 https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
