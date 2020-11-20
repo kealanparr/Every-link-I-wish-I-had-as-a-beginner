@@ -482,6 +482,7 @@ https://apptension.com/blog/
 https://50linesofco.de/  
 https://geekonaut.de/  
 https://refactoringui.com/  
+https://chriscoyier.net/blog/  
 
 ## Find the best talks in JS
 https://www.youtube.com/watch?v=JEq7Ehw-qk8&ab_channel=LearnCode.academy  
@@ -1231,8 +1232,7 @@ https://training.kalzumeus.com/newsletters/archive/content-marketing-strategy
 salary negociation
 https://kalzumeus.com/2012/01/23/salary-negotiation/
 
-good blogs to follow
-https://chriscoyier.net/blog/
+
 
 laugh
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9
