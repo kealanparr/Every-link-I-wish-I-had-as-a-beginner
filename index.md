@@ -490,7 +490,8 @@ https://www.youtube.com/watch?v=u4IdoBU1uKE&feature=player_embedded&ab_channel=Y
 https://www.youtube.com/watch?v=eUtsgUrF-ec&feature=player_embedded&ab_channel=YUILibrary  
 
 ## Find a community
-https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/ - freeCodeCamp  
+https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/ - freeCodeCamp discord  
+https://virtualcoffee.io/ - A place for developers to meet and discuss  
 
 ## Find excellent sites/email lists to follow
 ### Design links
@@ -1125,19 +1126,17 @@ https://www.udacity.com/course/advanced-android-with-kotlin--ud940
 <!-- Section I want to: END -->
 
 
-
-
-
-
-
-
 <!-- 
+
+salary negociations
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+https://fearlesssalarynegotiation.com/book/
+
 soft skills of developers
 http://chadfowler.com/2013/04/09/who-i-want-to-hire.html
 
 aws cloud study cert
 https://www.selikoff.net/2019/01/20/how-i-recommend-studying-for-the-aws-certified-cloud-practitioner-exam/
-
 
 ways to be better
 https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil
@@ -1146,7 +1145,8 @@ https://kealanparr.dev/4-biggest-tips-to-improve-as-a-developer
 https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 https://www.businessinsider.com/the-meanings-of-googliness-2013-8?r=US&IR=T
 https://overreacted.io/goodbye-clean-code/
-#On being a senior/ staff eng
+
+On being a senior/ staff eng
 https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 https://staffeng.com/stories
 
@@ -1230,11 +1230,6 @@ https://developers.google.com/tech-writing
 https://gist.github.com/zsup/9434452
 https://training.kalzumeus.com/newsletters/archive/content-marketing-strategy
 
-salary negociation
-https://kalzumeus.com/2012/01/23/salary-negotiation/
-
-
-
 laugh
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9
 https://circleci.com/blog/its-the-future/
@@ -1294,19 +1289,24 @@ https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler
 shift left
 https://www.infostretch.com/resources/white-papers/shift-left/
 
+talks about:
+React
+https://www.youtube.com/watch?v=MQGe9zxlRdk - Maggie Appleton — Drawing the Invisible React Metaphors - YouTube
 
-https://www.youtube.com/watch?v=MQGe9zxlRdk - Maggie Appleton—Drawing the Invisible—Women of React 2020 - YouTube
-https://thewaiterspad.com/ - The Waiter's Pad – Mike's notes.
+how to grow your product
 https://github.com/goabstract/Marketing-for-Engineers - GitHub - goabstract/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
-https://www.jorgemanrubia.com/2019/09/19/programming-quotes-that-blew-my-mind/ - Programming quotes that blew my mind – Jorge Manrubia
+
+
+
 https://twitter.com/jamesclear/status/952316052599427072 - James Clear on Twitter: "Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. You get what you repeat." / Twitter
-https://en.wikipedia.org/wiki/Why_We_Sleep - Why We Sleep - Wikipedia
+
+
 https://twitter.com/shanselman/status/1256499721029316608 - Scott Hanselman on Twitter: "First, welcome to your new life! Ask questions! Find a work buddy with whom you feel comfortable asking any tech question. Never let anyone make you feel bad asking a question - there are no dumb questions. Ask a lot. Draw diagrams. Read code. Reassert your assumptions. Breathe." / Twitter
-https://en.wikipedia.org/wiki/Repetitive_strain_injury - Repetitive strain injury - Wikipedia
-https://www.swyx.io/rsi-tips/ - Notes on RSI for Developers - swyx.io
-https://en.wikipedia.org/wiki/CPU_cache - CPU cache - Wikipedia
-https://en.wikipedia.org/wiki/Random-access_memory - Random-access memory - Wikipedia
+
+How to stop forgetting things
 https://en.wikipedia.org/wiki/Forgetting_curve - Forgetting curve - Wikipedia
+https://en.wikipedia.org/wiki/Spaced_repetition#:~:text=Spaced%20repetition%20is%20a%20method,fact%20is%20presented%20or%20said.
+
 https://whatis.techtarget.com/definition/context-switch - What is context switch? - Definition from WhatIs.com
 https://en.wikipedia.org/wiki/Metcalfe%27s_law - Metcalfe's law - Wikipedia
 https://www.nirandfar.com/indistractable/ - Indistractable: How to Control Your Attention and Choose Your Life
@@ -1622,7 +1622,19 @@ https://750words.com/ - 750 Words - Write every day.
 https://diaryemail.com/ - Diary Email
 https://www.writenext.io/ - Make Writing a Habit - WriteNext
 https://www.youtube.com/watch?v=NSUa1124ahs - #learnInPublic by Tan Li Hau - YouTube
-            
+https://github.com/vsouza/awesome-ios
+https://github.com/raywenderlich/swift-algorithm-club
+https://github.com/jamiebuilds/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js
+https://github.com/Alikhll/golang-developer-roadmap
+https://github.com/vsouza/awesome-ios | vsouza/awesome-ios: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+https://github.com/raywenderlich/swift-algorithm-club | raywenderlich/swift-algorithm-club: Algorithms and data structures in Swift, with explanations!
+https://github.com/jamiebuilds/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js | itsy-bitsy-data-structures/itsy-bitsy-data-structures.js at master · jamiebuilds/itsy-bitsy-data-structures
+https://github.com/Alikhll/golang-developer-roadmap | Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2020
+https://github.com/yangshun/tech-interview-handbook | yangshun/tech-interview-handbook: 💯 Materials to help you rock your next coding interview
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+https://github.com/MunGell/awesome-for-beginners | MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 Learn about https
 https://doesmysiteneedhttps.com/ - Does my site need HTTPS?
 
