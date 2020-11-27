@@ -255,6 +255,9 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ -
 http://jsforcats.com/ - Basic introduction to what JS is with cats  
 https://edu.gcfglobal.org/en/computerbasics/ - A general introduction to computers, and computer terms  
 
+## Overview
+https://www.progression.fyi/ - A large overview of technical companies expectations for career progression  
+
 ## Front end developer
 ### Junior to regular developer 
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md - A technical roadmap (useful as a base)  
@@ -304,8 +307,11 @@ https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
 https://jamesclear.com/goals-systems - Forget setting goals, focus on systems  
 https://www.youtube.com/watch?v=ZXsQAXx_ao0&ab_channel=MotivaShian - Do it  
 https://startupbros.com/killing-the-7-motivation-murderers/ - Kill the 7 motivation murders  
-https://www.mrdbourke.com/an-in-depth-review-of-the-learning-how-to-learn-course-on-courserathe-ultimate-skill-learning-how-to-learn - Learn how to learn  
 > There is no magic pill to start working hard. But let the below inspire you  
+  
+"Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. You get what you repeat." (https://twitter.com/jamesclear/status/952316052599427072 )  
+  
+"Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your identity. This is why habits are crucial. They cast repeated votes for being a type of person." (https://twitter.com/jamesclear/status/1048612840615997441)
   
 https://github.com/jyguyomarch/awesome-productivity - Awesome list of resources on productivity  
 https://www.youtube.com/watch?v=OoA4017M7WU&ab_channel=Bite-sizedPhilosophy - How much time do you waste?  
@@ -330,6 +336,7 @@ https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-noth
 
 ## A feeling of burnout
 https://hn.algolia.com/?q=burnout  
+http://katemats.com/letter-on-importance-of-work-life-balance/  
 
 ## Coders/designers block
 > Struggling to design something? Plan out a website UI? Get inspired by other designers/front end developers incredible vision for their own sites  
@@ -665,6 +672,7 @@ https://iosdevjobs.com
 ### Ethical hacking  
 https://backdoor.sdslabs.co/challenges/YARP  
 https://overthewire.org/wargames/bandit/bandit0.html  
+https://mlh.io/ - Major League Hacking  
 ### Crypto challenges  
 https://cryptopals.com/sets/1  
 ### Coding problems  
@@ -748,6 +756,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 ## How to learn  
 https://www.coursera.org/learn/learning-how-to-learn - Learn how to learn  
+https://www.mrdbourke.com/an-in-depth-review-of-the-learning-how-to-learn-course-on-courserathe-ultimate-skill-learning-how-to-learn - Learn how to learn  
+https://max2c.com/learning-how-to-learn/ - Learning How to Learn (And 20+ Studies) - Max's Two Cents  
 
 ## QA standards
 ### In JS  
@@ -1296,33 +1306,19 @@ https://www.youtube.com/watch?v=MQGe9zxlRdk - Maggie Appleton — Drawing the In
 how to grow your product
 https://github.com/goabstract/Marketing-for-Engineers - GitHub - goabstract/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
 
-
-
-https://twitter.com/jamesclear/status/952316052599427072 - James Clear on Twitter: "Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. You get what you repeat." / Twitter
-
-
-https://twitter.com/shanselman/status/1256499721029316608 - Scott Hanselman on Twitter: "First, welcome to your new life! Ask questions! Find a work buddy with whom you feel comfortable asking any tech question. Never let anyone make you feel bad asking a question - there are no dumb questions. Ask a lot. Draw diagrams. Read code. Reassert your assumptions. Breathe." / Twitter
-
 How to stop forgetting things
 https://en.wikipedia.org/wiki/Forgetting_curve - Forgetting curve - Wikipedia
 https://en.wikipedia.org/wiki/Spaced_repetition#:~:text=Spaced%20repetition%20is%20a%20method,fact%20is%20presented%20or%20said.
 
-https://whatis.techtarget.com/definition/context-switch - What is context switch? - Definition from WhatIs.com
-https://en.wikipedia.org/wiki/Metcalfe%27s_law - Metcalfe's law - Wikipedia
-https://www.nirandfar.com/indistractable/ - Indistractable: How to Control Your Attention and Choose Your Life
-https://pmarchive.com/guide_to_personal_productivity.html - Pmarchive - Guide to Personal Productivity
-https://gettingthingsdone.com/ - Getting Things Done® - David Allen's GTD® Methodology
-https://www.theobservereffect.org/marc.html - The Observer Effect – Marc Andreessen
-https://css-tricks.com/prioritizing/ - Prioritizing - CSS-Tricks
+Interesting perspectives on:
+- Meetings
 http://www.paulgraham.com/makersschedule.html - Maker's Schedule, Manager's Schedule
-http://sophieshepherd.com/2017/06/14/learning-to-be-chill.html - The Road to Burnout is Paved With Context Switching
-https://www.goodreads.com/book/show/25666050-algorithms-to-live-by - Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian
-https://twitter.com/jamesclear/status/1048612840615997441 - James Clear on Twitter: "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your identity. This is why habits are crucial. They cast repeated votes for being a type of person." / Twitter
-https://max2c.com/learning-how-to-learn/ - Learning How to Learn (And 20+ Studies) - Max's Two Cents
-http://katemats.com/letter-on-importance-of-work-life-balance/ - An Open Letter to B – or anyone who has been working too much lately. - kate{mats}
-https://www.coursera.org/learn/the-science-of-well-being - The Science of Well-Being by Yale University - Coursera
-https://www.youtube.com/watch?v=H5pj6ZuBgeE - Hancock (2008) - Gods, Angels, Superheroes (8/10) - Movieclips - YouTube
-https://mlh.io/ - Major League Hacking
+
+How to prioritise your time
+https://css-tricks.com/prioritizing/ - Prioritizing - CSS-Tricks
+
+
+
 https://www.speedoftrust.com/ - The Speed of Trust
 https://twitter.com/swyx/status/1193467826310238208 - shawn swyx wang on Twitter: "The Work In Public loop: Say what you’ll do, do what you said, say what you did, do even better next time" / Twitter
 https://seths.blog/2008/01/permission-mark/ - Permission Marketing - Seth's Blog
@@ -1365,7 +1361,7 @@ https://www.youtube.com/watch?v=FFHLRWbTqHA - Hidden Figures CLIP (5/5) - Import
 https://twitter.com/rjs/status/650875194345697280 - Ryan Singer on Twitter: ""Fixed deadline, negotiable scope" has to be the most underrated pattern in product management. It's the secret to shipping." / Twitter
 https://jenniferdewalt.com/ - Jennifer Dewalt - 180 Websites
 http://www.dailydropcap.com/ - Daily Drop Cap
-https://fourminutebooks.com/ - Four Minute Books - Learn From 800 of the Best Books for Free
+
 https://campfirelabs.co/blog/2019/1/8/the-art-of-pitching-how-i-got-published-in-the-atlantic - The Art of Pitching: How I Got Published in The Atlantic — Campfire Labs
 https://www.katebingamanburt.com/daily-purchase-drawings - Daily Drawings — The Office of Kate Bingaman-Burt
 http://100dayswithoutfear.com/ - 100 Days Without Fear100 Days Without Fear
@@ -1397,9 +1393,7 @@ https://twitter.com/swyx/status/1254402262857736192 - shawn swyx wang on Twitter
 https://twitter.com/Conaw/status/1129806786477772801 - Conor White-Sullivan on Twitter: "The Variable Schedule Reward Zettelkasten. A strategy for Memexing Twitter (to get better ideas, and build new relationships)" / Twitter
 https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html - How One Stupid Tweet Blew Up Justine Sacco’s Life - The New York Times
 https://www.maxim.com/maxim-man/8-rules-for-haters-tools-for-titans-2016-12 - 8 Terrific Tactics For Dealing With Haters, According to Tim Ferriss - Maxim
-https://en.wikipedia.org/wiki/Straw_man - Straw man - Wikipedia
-https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#Graham's_hierarchy_of_disagreement - Paul Graham (programmer) - Wikipedia
-https://en.wikipedia.org/wiki/Nonviolent_Communication - Nonviolent Communication - Wikipedia
+
 https://twitter.com/kimgoodwin/status/1020029572266438657 - Kim Goodwin on Twitter: "I have had more than one male colleague sincerely ask whether a certain behavior is mansplaining. Since apparently this is hard to figure out, I made one of them a chart. https://t.co/7DZ1RTrB3R" / Twitter
 https://twitter.com/sbarolo/status/1037052674158604289 - Scott Barolo on Twitter: "introducing Reply Guy #2: THE TONE POLICE Whatever issues you are discussing, he knows that your attitude is the real problem here! #civility #9ReplyGuys https://t.co/GThXnqCzPa" / Twitter
 https://alexdanco.com/2019/10/17/the-audio-revolution/ - The Audio Revolution – alexdanco.com
@@ -1541,7 +1535,6 @@ https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-cir
 https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0 - CircleCI Engineering Competency Matrix [public version] - Google Sheets
 https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0 - Software Development/Leadership Ladder, multi-track, public - Google Sheets
 https://engineering-progression.ft.com/ - Engineering Progression
-https://blog.patreon.com/ - Homepage - Patreon Blog
 https://github.com/meetup/engineering-roles/ - meetup/engineering-roles: Meetup's Engineering Ladder
 https://github.com/Socialbakers/engineeringroles - Socialbakers/engineeringroles: Our Ladder @ Socialbakers
 https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa - Medium Engineering growth: tracks (see: https://medium.com/s/engineering-growth-framework/engineering-growth-tracks-b1fad620787e)
@@ -1618,9 +1611,7 @@ https://sive.rs/advice - Beware of advice - Derek Sivers
 https://overreacted.io/why-do-we-write-super-props/ - Why Do We Write super(props)? — Overreacted
 https://www.keysearch.co/ - Keysearch: Keyword Research Tool - SEO Analysis & Difficulty Checker
 https://ahrefs.com/blog/skyscraper-technique/ - How to Execute the Skyscraper Technique (and Get Results)
-https://750words.com/ - 750 Words - Write every day.
-https://diaryemail.com/ - Diary Email
-https://www.writenext.io/ - Make Writing a Habit - WriteNext
+
 https://www.youtube.com/watch?v=NSUa1124ahs - #learnInPublic by Tan Li Hau - YouTube
 https://github.com/vsouza/awesome-ios
 https://github.com/raywenderlich/swift-algorithm-club
@@ -1637,5 +1628,10 @@ https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorith
 
 Learn about https
 https://doesmysiteneedhttps.com/ - Does my site need HTTPS?
+
+Writting
+https://750words.com/ - 750 Words - Write every day.
+https://diaryemail.com/ - Diary Email
+https://www.writenext.io/ - Make Writing a Habit - WriteNext
 
 -->
