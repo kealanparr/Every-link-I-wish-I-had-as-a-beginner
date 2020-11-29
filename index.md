@@ -1317,26 +1317,24 @@ http://www.paulgraham.com/makersschedule.html - Maker's Schedule, Manager's Sche
 How to prioritise your time
 https://css-tricks.com/prioritizing/ - Prioritizing - CSS-Tricks
 
-
-
-https://www.speedoftrust.com/ - The Speed of Trust
+In public:
+Learning:
+Working:
 https://twitter.com/swyx/status/1193467826310238208 - shawn swyx wang on Twitter: "The Work In Public loop: Say what you’ll do, do what you said, say what you did, do even better next time" / Twitter
-https://seths.blog/2008/01/permission-mark/ - Permission Marketing - Seth's Blog
+
+Marketing
 https://www.hubspot.com/inbound-marketing - What Is Inbound Marketing? - HubSpot
-https://twitter.com/swyx/status/1128141051406032898 - shawn swyx wang on Twitter: "@ZackArgyle listening to you now. i had -no idea- you were evangelizing mobile web at Pinterest for TWO YEARS before someone gave you a shot after a hackathon. That right there is persistence. Much respect. I don't know if I could be as strong if I felt I wasn't being heard." / Twitter
-https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154 - A Pinterest Progressive Web App Performance Case Study - by Addy Osmani - Dev Channel - Medium
-https://www.blog.google/topics/inside-google/talks-google-shared/ - Talks at Google: one of Google’s most beloved perks, shared with the world
-https://dropbox.tech/frontend/what-we-learned-at-our-first-js-guild-summit - What we learned at our first JS Guild Summit - Dropbox
-https://twitter.com/swyx/status/1128141051406032898 - shawn swyx wang on Twitter: "@ZackArgyle listening to you now. i had -no idea- you were evangelizing mobile web at Pinterest for TWO YEARS before someone gave you a shot after a hackathon. That right there is persistence. Much respect. I don't know if I could be as strong if I felt I wasn't being heard." / Twitter
+
+
+
+
 https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154 - A Pinterest Progressive Web App Performance Case Study - by Addy Osmani - Dev Channel - Medium
 https://deanyeong.com/reading-note/linchpin/ - Book Summary: Linchpin by Seth Godin
 https://twitter.com/naval/status/1041513555961438208?lang=en - Nav.al on Twitter: "You want to be rich and anonymous, not poor and famous." / Twitter
 https://www.software-engineering-unlocked.com/developer-security-troy-hunt/ - Episode 14: What developers should know about security with Troy Hunt - Software Engineering Unlocked
 https://www.software-engineering-unlocked.com/episode-13-bad-tests-dan-abramov/ - Episode 13: Bad Tests Are Worse Than Product Issues with Dan Abramov - Software Engineering Unlocked
 https://www.amazon.com/How-Talk-Anyone-Success-Relationships/dp/1511305169 - How to Talk to Anyone: Leil Lowndes, Joyce Bean, Leil Lowndes: 9781511305167: Amazon.com: Books
-https://en.wikipedia.org/wiki/Poe%27s_law - Poe's law - Wikipedia
 https://www.holloway.com/g/using-twitter - The Holloway Guide to Using Twitter — Holloway
-https://gumroad.com/l/twitter-audience/indiehackers - Everyone Can Build a Twitter Audience
 https://zellwk.com/blog/build-your-developer-brand/ - Free Workshop on Branding and Marketing yourself as a developer - Zell Liew
 https://danluu.com/p95-skill/ - 95%-ile isn't that good
 https://golden.com/wiki/Dan_Abramov_(software_engineer)-99B8RJM - Dan Abramov (software engineer) - Wiki - Golden
@@ -1344,8 +1342,6 @@ https://www.youtube.com/watch?v=E42EEPchKGY - Is Dan Abramov a Junior Developer 
 https://nav.al/competition-authenticity - Escape Competition Through Authenticity
 https://uibreakfast.com/169-building-your-brand-with-austin-church/ - UI Breakfast Podcast. Episode 169: Building Your Brand with Austin Church - UI Breakfast
 https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170 - Amazon.com: Purple Cow, New Edition: Transform Your Business by Being Remarkable (8601410256753): Godin, Seth: Books
-https://twitter.com/AdamRackis/status/1254543828981293056 - Adam Rackis on Twitter: "@oliverturner WHOA Oliver - just noticed it was you. Cool profile pic - didn't recognize you!" / Twitter
-https://twitter.com/laurieontech/status/1254118781875630080 - Laurie on Twitter: "@ryanflorence I'm pretty sure I recognize avatars before names at this point." / Twitter
 https://krebsonsecurity.com/2018/06/plant-your-flag-mark-your-territory/ - Plant Your Flag, Mark Your Territory — Krebs on Security
 https://andrewchen.co/professional-blogging/ - 10 years of professional blogging - what I've learned at andrewchen
 https://therideshareguy.com/ - The Rideshare Guy: Blog, Youtube, & Podcast For The Gig Economy
@@ -1355,10 +1351,8 @@ https://twitter.com/mipsytipsy/status/1247006442265198595 - Charity Majors on Tw
 https://whatis.techtarget.com/definition/availability-bias - What is availability bias? - Definition from WhatIs.com
 https://jvns.ca/blog/brag-documents/ - Get your work recognized: write a brag document
 http://www.salesprogress.com/coaching-leadership/bid/96324/WIFT-What-s-In-It-For-Them - WIFT: What's In It For Them?
-https://twitter.com/sxywu/status/877357398054141952/photo/1 - Shirley Wu - BLM on Twitter: "My business cards came in! Seven different back designs to show my portfolio 😊 if you're at @eyeofestival I'll have them on hand~ https://t.co/1uAFDu6TDX" / Twitter
 https://kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/ - Don't Call Yourself A Programmer, And Other Career Advice - Kalzumeus Software
 https://www.youtube.com/watch?v=FFHLRWbTqHA - Hidden Figures CLIP (5/5) - Importance Of Being First (2017) by Hollywood clips HD - YouTube
-https://twitter.com/rjs/status/650875194345697280 - Ryan Singer on Twitter: ""Fixed deadline, negotiable scope" has to be the most underrated pattern in product management. It's the secret to shipping." / Twitter
 https://jenniferdewalt.com/ - Jennifer Dewalt - 180 Websites
 http://www.dailydropcap.com/ - Daily Drop Cap
 
@@ -1371,16 +1365,11 @@ https://levels.io/12-startups-12-months/ - I'm Launching 12 Startups in 12 Month
 https://medium.com/shooting-unicorns/were-shipping-12-passion-projects-in-12-months-74903671cd4d - We’re shipping 12 passion projects in 12 months 🚚 - by Shooting Unicorns - Shooting Unicorns - Medium
 https://www.acquired.fm/episodes/atari-with-nolan-bushnell - Atari (with Nolan Bushnell) - History and Strategy - Deep Podcast Case Studies
 https://www.slideshare.net/mastorey/how-developers-stay-current-using-twitter - How Developers Stay Current Using Twitter
-https://twitter.com/ladyleet/status/985018157994831872?lang=en - Tracy Lee - ladyleet on Twitter: "Here's a list of ~300 women in tech you should follow. https://t.co/TJpCJTq4TW" / Twitter
 https://vicki.substack.com/p/the-curse-of-being-big-on-the-internet - The curse of being Big on the Internet - Normcore Tech
 https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html - The Follower Factory - The New York Times
 https://www.samuelthomasdavies.com/book-summaries/business/tribes/ - Book Summary: Tribes by Seth Godin
-https://twitter.com/kevinakwok/status/998382426270318593 - Kevin Kwok on Twitter: "@devonzuegel Tapping a tuning fork and seeing who resonates" / Twitter
-https://twitter.com/sveltesociety - Svelte Society (@SvelteSociety) / Twitter
-https://twitter.com/swyx/status/1179261731304022017 - shawn swyx wang on Twitter: "achievement unlocked: created and hosted a new (50?) person meetup in 1 week (and spoke as a total nonexpert while in panic mode) only possible with all your help. special thanks to @Rich_Harris and @bitandbang and everyone who came together to make it work. exhausted 😴" / Twitter
-https://twitter.com/Jayphen/status/1257340806777667584 - Jayphen on Twitter: "@swyx @Coding_Career Twitter is also an imposter syndrome slot machine" / Twitter
-https://help.twitter.com/en/using-twitter/twitter-timeline - About your Twitter timeline
-https://help.twitter.com/en/using-twitter/twitter-lists - How to use Twitter Lists
+
+
 https://www.businessinsider.com/how-to-turn-on-twitter-notifications?r=US&IR=T - How to turn on Twitter notifications for specific accounts - Business Insider
 https://twitter.com/swyx/status/1206795334686396417 - shawn swyx wang on Twitter: "To @reactjs devs that need it stop bashing other frameworks stop bringing up React unbidden stop being obnoxious to People over Software just be happy for them learn frm them get inspired by them be an ally lift people up dont tear them down go make shit instead of stirring it" / Twitter
 https://twitter.com/dvassallo/status/1255931424823099392 - Daniel Vassallo on Twitter: "How do you start with zero followers? — Make something interesting in real life, and go share it where people are interested in what you did. Here’s what just Elliot shared: https://t.co/FyujjgE2N5 - and here are the results 👇 This is also a good example https://t.co/3QOTYrR161" / Twitter
@@ -1395,7 +1384,7 @@ https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-
 https://www.maxim.com/maxim-man/8-rules-for-haters-tools-for-titans-2016-12 - 8 Terrific Tactics For Dealing With Haters, According to Tim Ferriss - Maxim
 
 https://twitter.com/kimgoodwin/status/1020029572266438657 - Kim Goodwin on Twitter: "I have had more than one male colleague sincerely ask whether a certain behavior is mansplaining. Since apparently this is hard to figure out, I made one of them a chart. https://t.co/7DZ1RTrB3R" / Twitter
-https://twitter.com/sbarolo/status/1037052674158604289 - Scott Barolo on Twitter: "introducing Reply Guy #2: THE TONE POLICE Whatever issues you are discussing, he knows that your attitude is the real problem here! #civility #9ReplyGuys https://t.co/GThXnqCzPa" / Twitter
+
 https://alexdanco.com/2019/10/17/the-audio-revolution/ - The Audio Revolution – alexdanco.com
 https://wincent.com/blog/on-the-right-to-disagree - On the right to disagree · wincent.com
 https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch05s03.html - Breakable Toys - Apprenticeship Patterns [Book]
@@ -1445,9 +1434,7 @@ https://reactjs.org/community/conferences.html - Conferences – React
 https://events.vuejs.org/conferences/ - Conferences - Vue.js Events
 https://jsconf.com/ - JSConf - Conferences for the JavaScript Community
 https://conferences.css-tricks.com/ - Conferences
-https://twitter.com/moztechcfps - Profile / Twitter
-https://twitter.com/cfp_land - Profile / Twitter
-https://twitter.com/callingallpaper - Calling All Papers (@callingallpaper) / Twitter
+
 https://confs.tech/ - Tech conferences in 2020 and 2021 - Confs.tech
 https://www.youtube.com/watch?v=v2Au9Rlj6XM - The Browser as a Modular, Networked Video Synthesizer by Olivia Jack - JSConf.Asia 2019 - YouTube
 https://www.youtube.com/watch?v=3HLRwcVqgFE - Jan Jongboom: Run Your JS App For Years On A Single Coin Cell - JSConf.Asia 2016 - YouTube
@@ -1469,8 +1456,7 @@ https://www.youtube.com/watch?v=uGlzRt-FYto - “What is Success?” by Evan Cza
 https://www.youtube.com/watch?v=JuI6NUbEzDw&feature=emb_title - Write the Docs Prague 2017: Even Naming This Talk Is Hard by Ruthie BenDor - YouTube
 https://www.youtube.com/watch?v=gCroOiPRfw0 - How I Write CFPs (apply to speak at a conference) - YouTube
 https://github.com/sw-yx/swyxdotio/tree/master/content/ - swyxdotio/content at master · sw-yx/swyxdotio · GitHub
-https://twitter.com/swyx/status/1112513571315830784 - Tweet / Twitter
-https://twitter.com/swyx/status/1178059565805555713 - Tweet / Twitter
+
 https://speak.reactrally.com/events/react-rally-2019 - React Rally Call for Proposals
 https://docs.google.com/document/d/1uT4aimBXzLmSH7rOxnOYGX1iyHw76mKrs5jnwq3TWrg/edit - Infinitely Better UIs with Finite Automata - Google Docs
 https://docs.google.com/document/d/1qm33pkoy1T2gUiQm9SfEjKU8tXXPPLMaoKNM5U23LOY/edit - A hand wave of React for all your Internet of Thangs - Google Docs
@@ -1633,5 +1619,353 @@ Writting
 https://750words.com/ - 750 Words - Write every day.
 https://diaryemail.com/ - Diary Email
 https://www.writenext.io/ - Make Writing a Habit - WriteNext
+
+C#
+ARKIT & Unity 3D, creating Augmented Reality Apps with C#
+
+Here are this week's five links that are worth your time:
+
+1. Learn the basics of programming and computer science with this beginner-friendly free course. You'll learn concepts like variables, functions, data structures, recursion, and more. (2 hour watch): https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/
+
+2. How Braedon went from working in sales to working as a software developer. He looks back on the 16 months he spent learning to code at home after work, and the first 2 years in his new job as a professional web developer. (10 minute read): https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/
+
+3. Permutation and Combination are two math concepts that are really important for programming. And you can learn how to use both of these without much pre-existing math knowledge. Here's how. (8 minute read): https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/
+
+4. Learn how to create your own WordPress theme from scratch. This course includes a full codebase, along with some sleek UI designs. (3 hour watch): https://www.freecodecamp.org/news/learn-how-to-create-your-own-wordpress-theme-from-scratch/
+
+5. How to build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange. (22 minute read): https://www.freecodecamp.org/news/auto-updating-excel-python-aws/
+
+
+Quote of the Week: “Unless in communicating with a computer one says exactly what one means, trouble is bound to result.” – Alan Turing
+
+tech:
+https://google.github.io/eng-practices/review/reviewer/
+https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
+https://teachyourselfcs.com/
+https://www.nand2tetris.org/ nand gates to tetris
+https://codewithshadman.com/cqrs/
+https://towardsdatascience.com/comparing-the-best-free-financial-market-data-apis-158ae73c16ba financial market api
+https://egghead.io/ - tech site like fcc, for react etc
+https://www.reddit.com/r/hacking/comments/8kshuu/whats_a_good_website_to_learn_ethical_hacking/ ethical hacking
+data struc and algo https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/?fbclid=IwAR0VOsBD9iwm8bvE25ZpW2ZC9W5YfQtrkK6M_APjo8zTpV8RN-i6NYWe1UU
+
+https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/?fbclid=IwAR3o2Xw69CSzQPj6syQhqMs5HK8sy51RU7yEb7O_yRRWabwvCF4NWFv0Q6E - for strarting a channel
+
+https://www.reddit.com/r/learnprogramming/comments/eezz26/what_are_some_bad_programming_habits_you_wished/
+
+https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/?fbclid=IwAR1slPdsHvBQMI9sqZFIuum20X46GojX6K8w9ZTscL0UJPnicwOGyK714OQ
+
+https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/ <- when they need a cv
+
+advanced ts:
+https://www.pluralsight.com/courses/typescript-advanced
+
+https://www.pluralsight.com/courses/typescript-in-depth <- JUST THE GENERICS SECION, NOT EVERYTHING
+
+js bits,
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+next:
+kubernetes -> https://www.udemy.com/topic/kubernetes/?price=price-free&sort=popularity
+read
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+then
+https://v8.dev/blog/cost-of-javascript-2019
+
+https://jakearchibald.com/2016/fun-hacks-faster-content/
+
+problem solve:
+daily:
+https://leetcode.com/explore/
+https://www.codewars.com
+
+GO:
+finish tour of go, https://tour.golang.org/methods/19
+then read https://golang.org/doc/effective_go.html, read https://gobyexample.com/
+then go read this stuff -> https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/ 
+then code something:
+either
+https://app.pluralsight.com/player?course=creating-web-applications-go-update&author=mike-vansickle&name=creating-web-applications-go-update-m8&clip=0&mode=live
+or
+https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
+or
+https://golang.org/doc/articles/wiki/
+
+https://www.toptal.com/go/interview-questions
+
+https://nodejs.org/uk/docs/guides/event-loop-timers-and-nexttick/
+
+technical reading:
+https://verraes.net/2020/01/wall-of-technical-debt/
+
+design:
+https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/
+
+motivation:
+https://www.youtube.com/watch?v=ESYYby1FuPc
+
+business
+https://www.reddit.com/r/Entrepreneur/comments/eg9r74/main_advice_for_those_starting_their_own_business/
+https://www.nichepursuits.com/how-to-build-niche-website/
+https://empireflippers.com/sell-your-site/
+https://longtailpro.com/?utm_source=nichepursuits&utm_campaign=LongTailPro&utm_medium=blog#a_aid=haws
+
+money
+https://investedwallet.com/best-vanguard-index-funds/
+https://www.kiplinger.com/slideshow/investing/T044-S001-16-high-yield-monthly-dividend-stocks-to-buy/index.html
+https://www.youtube.com/watch?v=4dswzb-8nHk&feature=share
+https://www.suredividend.com/10-of-the-highest-yielding-reits-analyzed-in-detail/
+https://www.reddit.com/r/investing/comments/9n31xf/introducing_the_white_girl_index/
+https://app.mad-dividends.com/#/freePortfolioTracker/overview?portfolioId=1195
+https://qz.com/913249/the-practical-steps-it-takes-to-actually-become-a-millionaire/?utm_source=qzfbarchive
+https://www.reddit.com/r/UKPersonalFinance/comments/eeh2xe/vanguard/
+
+Ethical hacking
+https://www.youtube.com/watch?v=2_lswM1S264 – 2nd
+https://www.youtube.com/watch?v=3Kq1MIfTWCE – 1st
+
+https://www.udemy.com/understand-javascript/
+
+COST OF JS IN BROWSER IN 2018 AND 2019
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+https://v8.dev/blog/cost-of-javascript-2019
+
+https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/edit#gid=1015216084
+
+Arduino board?
+
+Read the TS playground 1.1 to understand sym links etc. etc. 
+https://twitter.com/kealanprogram/status/1155053063989846017
+Repos here- https://github.com/microsoft/TypeScript/releases/tag/v1.1.0.1
+
+https://teachyourselfcs.com/
+
+Kotlin
+https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+https://www.udacity.com/course/advanced-android-with-kotlin--ud940
+
+Kubernetes – udemy course
+
+Event loop
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+
+Inheritance
+https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
+Ts road map
+https://github.com/Microsoft/TypeScript/wiki/Roadmap
+
+css animations
+https://css-animations.io/
+
+Public apis to play with
+https://github.com/public-apis/public-apis
+
+Trivia
+DNS and when you hit
+https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/?fbclid=IwAR0y7WisVnujlEkN-zjpsaWnngMbtr-FMLkrHusVaeJ5x1digcD-k2FMuCI
+
+pluralsight
+https://app.pluralsight.com/id?redirectTo=%2Flibrary%2F
+
+css grid
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://jakearchibald.com/2019/f1-perf/
+https://jakearchibald.com/2018/i-discovered-a-browser-bug/
+
+Finish Golang Tour- do some exercises, for loop, console, structs
+
+Uncategorised
+
+JS interview
+Top 10 Sites for Interview Preparation:
+1. Ambitionbox
+2. AceTheInterview
+3. Geeksforgeeks
+4. Leetcode
+5. Gainlo
+6. Careercup
+7. Codercareer
+8. InterviewUp
+9. InterviewBest
+10. Indiabix
+
+https://www.fromdev.com/2016/02/best-interview-preparation-sites.html
+
+Golang:
+https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org
+
+stats:
+https://www.freecodecamp.org/news/free-statistics-course/
+
+webpack:
+https://www.freecodecamp.org/news/webpack-course/
+
+Priority for upcoming work: 
+
+SQS???
+Microfront end??
+
+
+https://www.executeprogram.com/
+JS CALLBACKS
+WEB PROGRAMMING SITE <- full stack app
+
+
+https://v8.dev/blog/cost-of-javascript-2019
+
+Full stack app
+Basarat book – when you pick this back up, look at the notes in tech folder as ur halfway thru. Then also
+FCC
+
+https://frontendmasters.com/books/front-end-handbook/2018/
+https://github.com/nas5w/javascript-tips-and-tidbits#closures
+https://sourcemaking.com/antipatterns – design, anti-design and refactoring
+https://frontendmasters.com/courses/practical-algorithms/
+5 design patterns and refactoring tips - refactoring guru
+Front-end masters – JS algo shit
+Sourcemaking
+Advanced TS
+https://github.com/Microsoft/TypeScript/wiki/Roadmap
+TS deeper- plural sight advanced course
+https://www.typescriptlang.org/docs/handbook/generics.html - generics, symbols, advanced types
+https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps
+
+CSS
+•	Total lesson based coverage
+https://teamtreehouse.com/library/topic:css
+https://sabe.io/classes/css
+https://learn.freecodecamp.org/
+https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics
+CSS animations webpage
+
+•	Motion design/animation
+https://css-animations.io/
+https://www.pluralsight.com/courses/motion-design-css
+https://css-animations.io/
+•	Flexbox:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+JavaScript
+•	Automatic semicolon insertion
+http://inimino.org/~inimino/blog/javascript_semicolons 
+
+•	this keyword
+https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth 
+•	33 fundamentals
+https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1 
+https://github.com/leonardomso/33-js-concepts 
+•	ES6
+https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624 
+https://github.com/nas5w/javascript-tips-and-tidbits#closures 
+https://medium.com/@slavik57/async-race-conditions-in-javascript-526f6ed80665
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+•	Total lesson based coverage
+https://teamtreehouse.com/library/topic:js
+https://sabe.io/classes/js 
+https://learn.freecodecamp.org/
+https://www.khanacademy.org/computing/computer-programming
+CORS
+•	Intro to CORS
+https://www.youtube.com/watch?v=9_BFGgfAHD8 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS 
+
+Node
+•	The general Node ecosystem
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 
+
+Browser
+•	Compositor thread
+https://dev.chromium.org/developers/design-documents/compositor-thread-architecture 
+http://dev.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome 
+https://tinyurl.com/yyarcjxc
+•	Animations/ requestAnimationFrame()
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame 
+https://aerotwist.com/blog/flip-your-animations/
+https://flaviocopes.com/requestanimationframe/
+https://developers.google.com/web/fundamentals/performance/rendering/
+•	Layers
+https://www.chromium.org/blink/slimming-paint 
+https://www.html5rocks.com/en/tutorials/speed/layers/ 
+•	Event loop
+https://vimeo.com/254947206 
+•	Performance
+https://eu.udacity.com/course/browser-rendering-optimization--ud860
+https://github.com/wilsonpage/fastdom
+https://tinyurl.com/kn5t6pu 
+https://tinyurl.com/yconu6ua 
+https://blog.idrsolutions.com/2014/08/beware-javascript-layout-thrashing/
+https://developers.google.com/web/fundamentals/performance/why-performance-matters/
+https://developers.google.com/web/fundamentals/performance/rail
+
+Typescript
+•	Advanced types
+https://www.typescriptlang.org/docs/handbook/advanced-types.html 
+
+Encoding
+•	General introduction
+http://igstan.ro/posts/2017-06-06-unicode-vs-utf-8.html 
+https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html 
+https://www.w3.org/International/questions/qa-what-is-encoding 
+
+Comp science
+•	Open source comp science degree
+https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/ 
+•	Queueing theory
+https://github.com/joelparkerhenderson/queueing_theory 
+
+•	Golang
+o	Golang concurrency
+https://app.pluralsight.com/library/courses/go-concurrent-programming/table-of-contents
+o	Golang fundamentals
+https://tinyurl.com/y4qxpy7z 
+https://app.pluralsight.com/library/courses/creating-web-applications-go-update/table-of-contents 
+•	Fiddler
+https://app.pluralsight.com/library/courses/fiddler-chrome-developer-tools-debugging-website/table-of-contents
+Regex
+•	General introduction
+https://sabe.io/classes/javascript/regular-expressions
+https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents
+
+Math
+•	General introduction
+https://www.khanacademy.org/math
+PRJS
+•	Projects to complete
+https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/ - make this mobile friendly
+https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/
+•	Python fundamentals
+https://www.udemy.com/the-modern-python3-bootcamp/learn/v4/overview
+•	Great Node PRJ’s
+https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/ 
+
+
+Algorithms and data structures
+•	Mathematical proofs and explanations
+https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf
+•	Simple explanation and intro
+https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174 
+•	Data structs
+https://blog.kevinchisholm.com/javascript/associative-arrays-in-javascript/
+•	Hands on experience
+https://leetcode.com/problemset/all/ - Premium too? 
+Hands on experience
+•	Practice problem solving
+https://www.codewars.com/dashboard
+https://leetcode.com/problemset/all/
+https://learn.freecodecamp.org/
+
+Server requests/ Network
+HTTP protocol
+HTTPS
+TCP and FTP???
+Caching
+Caching SPA
+
+Read:
+
+https://www.freecodecamp.org/news/top-2020-it-skills/
 
 -->
