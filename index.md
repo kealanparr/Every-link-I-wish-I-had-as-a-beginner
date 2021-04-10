@@ -305,6 +305,7 @@ https://www.whatwouldmarkruffalodo.com/ - What would Mark Ruffalo do? How Mark o
 https://sive.rs/up2you - Assume no-one is going to help you. Don't wait for Superman to come and help you  
 https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4 - Motivation to get your first job, and pursue mastery  
 https://jamesclear.com/goals-systems - Forget setting goals, focus on systems  
+https://rejected.us/ - Don't get down by rejection  
 https://www.youtube.com/watch?v=ZXsQAXx_ao0&ab_channel=MotivaShian - Do it  
 https://startupbros.com/killing-the-7-motivation-murderers/ - Kill the 7 motivation murders  
 > There is no magic pill to start working hard. But let the below inspire you  
