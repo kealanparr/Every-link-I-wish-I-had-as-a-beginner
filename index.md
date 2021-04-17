@@ -253,6 +253,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_welcome - A resource to get you thinking about what you might want to do  
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ - A place to start with making websites  
 http://jsforcats.com/ - Basic introduction to what JS is with cats  
+https://github.com/microsoft/Web-Dev-For-Beginners - A really good introduction to website development for total beginners, made by Microsoft  
 https://edu.gcfglobal.org/en/computerbasics/ - A general introduction to computers, and computer terms  
 
 ## Overview
@@ -1611,6 +1612,7 @@ https://github.com/yangshun/tech-interview-handbook | yangshun/tech-interview-ha
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 https://github.com/MunGell/awesome-for-beginners | MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.
 https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/denysdovhan/wtfjs#is-this-multiple-inheritance
 
 Learn about https
 https://doesmysiteneedhttps.com/ - Does my site need HTTPS?
@@ -1793,6 +1795,18 @@ Top 10 Sites for Interview Preparation:
 9. InterviewBest
 10. Indiabix
 
+Interview handbook
+https://yangshun.github.io/tech-interview-handbook/
+
+System design primer
+https://github.com/donnemartin/system-design-primer
+
+Interview help
+https://github.com/Olshansk/interview
+
+How to secure anything
+https://github.com/veeral-patel/how-to-secure-anything
+
 https://www.fromdev.com/2016/02/best-interview-preparation-sites.html
 
 Golang:
@@ -1808,7 +1822,6 @@ Priority for upcoming work:
 
 SQS???
 Microfront end??
-
 
 https://www.executeprogram.com/
 JS CALLBACKS
@@ -1963,6 +1976,8 @@ HTTPS
 TCP and FTP???
 Caching
 Caching SPA
+
+https://github.com/microsoft/Web-Dev-For-Beginners
 
 Read:
 
