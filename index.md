@@ -521,8 +521,16 @@ https://hackernoon.com/
 https://devrant.com/feed - Get inside dev's head and their frustrations  
 
 ## Find project ideas  
+### General  
 https://github.com/danistefanovic/build-your-own-x  
 https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef  
+## JavaScript  
+https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/  
+https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/  
+### Python projects  
+https://www.udemy.com/the-modern-python3-bootcamp/learn/v4/overview  
+### Node projects  
+https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/  
 
 # I want to make  
 ## Make a VS Code extension
@@ -1946,14 +1954,6 @@ https://app.pluralsight.com/library/courses/regular-expression-introduction/tabl
 Math
 •	General introduction
 https://www.khanacademy.org/math
-PRJS
-•	Projects to complete
-https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/ - make this mobile friendly
-https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/
-•	Python fundamentals
-https://www.udemy.com/the-modern-python3-bootcamp/learn/v4/overview
-•	Great Node PRJ’s
-https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/ 
 
 
 Algorithms and data structures
@@ -1983,5 +1983,4 @@ https://github.com/microsoft/Web-Dev-For-Beginners
 Read:
 
 https://www.freecodecamp.org/news/top-2020-it-skills/
-
 -->
