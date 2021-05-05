@@ -1894,6 +1894,9 @@ CORS
 https://www.youtube.com/watch?v=9_BFGgfAHD8 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS 
 
+Beginner starting at the start
+https://andreasbm.github.io/web-skills/?ref=undesign#accessibility
+
 Node
 •	The general Node ecosystem
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 
