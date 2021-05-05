@@ -1843,6 +1843,9 @@ Full stack app
 Basarat book – when you pick this back up, look at the notes in tech folder as ur halfway thru. Then also
 FCC
 
+To laugh?
+https://nikolas.github.io/github-drama/  Be careful this isnt insulting - how does the repo intro explain it?
+
 https://frontendmasters.com/books/front-end-handbook/2018/
 https://github.com/nas5w/javascript-tips-and-tidbits#closures
 https://sourcemaking.com/antipatterns – design, anti-design and refactoring
