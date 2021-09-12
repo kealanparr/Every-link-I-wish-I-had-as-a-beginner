@@ -357,7 +357,7 @@ https://www.garicruze.com/
 https://www.thebeastisback.com/  
 https://everywhereist.com/blog/  
 https://www.sidehustlenation.com/  
-https://quinntonharris.com/  
+https://www.quinntonharris.com/  
 https://www.seanhalpin.design/  
 http://www.pascalvangemert.nl/#/abilities  
 
