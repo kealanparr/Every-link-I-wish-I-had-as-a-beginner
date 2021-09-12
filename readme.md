@@ -372,7 +372,7 @@ https://mentors.codingcoach.io/
 
 ## Find a good YouTube channel
 ### About Programming
-https://github.com/JoseDeFreitas/awesome-youtubers - Awesome list of the best YouTubers grouped by category
+https://github.com/JoseDeFreitas/awesome-youtubers - Awesome list of the best YouTubers grouped by category  
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q - FunFunFunction  
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ - freeCodeCamp  
 https://www.youtube.com/user/shiffman - The Coding Train  
@@ -390,9 +390,9 @@ https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 ### If you are only going to read one, read this one
 https://www.learninpublic.org/?from=DEV.to - Easily the best technical book I have ever read  
 ### Or a selection of my favorites
-https://github.com/Michael0x2a/curated-programming-resources
-https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer
-http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective 
+https://github.com/Michael0x2a/curated-programming-resources    
+https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
+http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective    
 https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf - Designing Data-Intensive Applications  
 https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf - Data structures and algorithms in Java  
 https://github.com/getify/You-Dont-Know-JS  
@@ -458,7 +458,7 @@ https://github.com/cyrusstoller/list-of-lists
 https://github.com/prakhar1989/awesome-courses  
 
 ## Find help
-https://chingu.io/ - From a remote developer
+https://chingu.io/ - From a remote developer  
 https://forum.freecodecamp.org/ - From the freeCodeCamp forum  
 https://stackoverflow.com/ - On any coding topic, a resource to find if others have encountered your problem  
 
@@ -578,11 +578,11 @@ https://google.github.io/styleguide/pyguide.html
 ## Read something fascinating
 > A very random assortment, but articles that have impacted me as a developer positively, and made me think of problems/aspects of my life in new ways  
   
-https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.i500mt6fg
+https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.i500mt6fg  
 https://topmediumstories.com/  
 https://blog.bettyblocks.com/7-things-developers-hate-most-about-their-job  
 http://igstan.ro/posts/2017-06-06-unicode-vs-utf-8.html  
-https://stackoverflow.blog/2020/07/01/nobody-has-to-lose-in-work-life-balance/
+https://stackoverflow.blog/2020/07/01/nobody-has-to-lose-in-work-life-balance/  
 https://www.freecodecamp.org/news/make-your-hobby-harder-programming-is-difficult-thats-why-you-should-learn-it-e4627aee41a1/  
 https://www.freecodecamp.org/news/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab/#.djsc21mbt  
 https://verraes.net/2020/01/wall-of-technical-debt/  
@@ -654,7 +654,7 @@ https://www.destroyallsoftware.com/talks/wat
 https://youtu.be/y8OnoxKotPQ   
 
 ## Search for jobs
-https://github.com/jwasham/coding-interview-university#coding-question-practice. - Excellent getting hired handbook
+https://github.com/jwasham/coding-interview-university#coding-question-practice. - Excellent getting hired handbook  
 https://github.com/cassidoo/getting-a-gig - How to get a gig as a student  
 ### General
 http://www.gainlo.co/ - Mock interviews with talented engineers  
@@ -780,8 +780,8 @@ https://google.github.io/eng-practices/review/reviewer/
 https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/  
 
 ## Regex
-https://sabe.io/
-https://regexone.com/
+https://sabe.io/  
+https://regexone.com/  
 
 ## Architecture and design patterns
 https://github.com/simskij/awesome-software-architecture  
@@ -801,7 +801,7 @@ https://github.com/wilsonpage/fastdom - Batch DOM access
 https://tinyurl.com/kn5t6pu - Render-tree Construction, Layout, and Paint   
 https://tinyurl.com/yconu6ua - JavaScript Start-up Optimization   
 https://blog.idrsolutions.com/2014/08/beware-javascript-layout-thrashing/ - Layout thrashing  
-https://developers.google.com/web/fundamentals/performance/why-performance-matters/ - Why perf matters
+https://developers.google.com/web/fundamentals/performance/why-performance-matters/ - Why perf matters  
 https://developers.google.com/web/fundamentals/performance/rail - RAIL model  
 https://www.chromium.org/blink/slimming-paint    
 https://developers.google.com/web/fundamentals/performance/rendering  
@@ -863,11 +863,11 @@ https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustratio
 https://www.bigocheatsheet.com/  
 
 ## Ethical Hacking/ Pen testing
-https://www.youtube.com/watch?v=2_lswM1S264&ab_channel=freeCodeCamp.org 
+https://www.youtube.com/watch?v=2_lswM1S264&ab_channel=freeCodeCamp.org   
 https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org  
 
 ## Competitive programming
-https://www.topcoder.com/community/competitive-programming/tutorials/
+https://www.topcoder.com/community/competitive-programming/tutorials/  
 https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/%20  
 https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4  
   
@@ -878,7 +878,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 http://joshua.smcvt.edu/linearalgebra/book.pdf  
 https://www.khanacademy.org/math/linear-algebra  
 ### Math for comp sci  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/  
 https://courses.csail.mit.edu/6.042/spring17/mcs.pdf  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
@@ -1018,7 +1018,7 @@ https://github.com/uraimo/Awesome-Swift-Playgrounds - Awesome list of Swift reso
 https://github.com/hsavit1/Awesome-Swift-Education -- Awesome list about Swift education  
 https://matteomanferdini.com/become-an-ios-developer/ - Start with reading this very useful handbook  
 https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585  
-https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html - Feel free to use this as a reference when you  forget bits
+https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html - A reference when you  forget syntax  
 https://www.udemy.com/course/ios-13-app-development-bootcamp/  
 ## Node  
 ### Learn Node 
@@ -1046,7 +1046,7 @@ https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-
 https://teamtreehouse.com/tracks/learn-python  
 https://www.udacity.com/course/introduction-to-python--ud1110  
 https://www.amazon.com/gp/product/1617294438  
-https://www.freecodecamp.org/news/the-python-guide-for-beginners/
+https://www.freecodecamp.org/news/the-python-guide-for-beginners/  
 https://automatetheboringstuff.com/  
 ### Data science with Python  
 https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=444977-105c29  
