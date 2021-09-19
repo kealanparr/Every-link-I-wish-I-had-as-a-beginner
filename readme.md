@@ -210,12 +210,10 @@ While this resource is helpful to provide useful guidelines of where to find qua
 #### [JavaScript](#JavaScript-1)
 [Great lists to have as a JS dev](#Great-lists-to-have-as-a-JS-dev)  
 [Prototypal inheritance](#Prototypal-inheritance)  
-[Automatic semi-colon insertion (ASI)](#Automatic-semi-colon-insertion-ASI)  
 [Hoisting](#Hoisting)  
 [ES6 iterators and generators](#ES6-iterators-and-generators)  
 [JS tips and tidbits](#JS-tips-and-tidbits)    
 [this keyword](#this-keyword)  
-[Transducers](#Transducers)  
 [Inheritance](#Inheritance)  
 [Modules](#Modules)  
 [JS engine](#JS-engine)  
@@ -302,7 +300,6 @@ https://www.swyx.io/rsi-tips/
 https://www.freecodecamp.org/news/impposter-syndrome-664a4b749fb8/ - What is the impostor syndrome? And steps it helped someone to overcome it  
 https://github.com/alcovegan/awesome-imposter-syndrome - Bit of a bad title, but an awesome list of resources to help you with impostor syndrome  
 ## Motivation issues
-https://www.whatwouldmarkruffalodo.com/ - What would Mark Ruffalo do? How Mark overcame his hurdles  
 https://sive.rs/up2you - Assume no-one is going to help you. Don't wait for Superman to come and help you  
 https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4 - Motivation to get your first job, and pursue mastery  
 https://jamesclear.com/goals-systems - Forget setting goals, focus on systems  
@@ -338,7 +335,6 @@ https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-noth
 
 ## A feeling of burnout
 https://hn.algolia.com/?q=burnout  
-http://katemats.com/letter-on-importance-of-work-life-balance/  
 
 ## Coders/designers block
 > Struggling to design something? Plan out a website UI? Get inspired by other designers/front end developers incredible vision for their own sites  
@@ -352,7 +348,6 @@ https://brandoncjohnson.com/
 http://www.rleonardi.com/interactive-resume/  
 ### Some of the best I've seen
 http://www.garysheng.com/  
-https://hiremevlad.com/  
 https://www.garicruze.com/  
 https://www.thebeastisback.com/  
 https://everywhereist.com/blog/  
@@ -385,7 +380,6 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A - Siraj Raval
 ##  Find the best books
 https://github.com/learn-anything/books - Awesome list to learn any topic. Comp sci included  
 https://github.com/AB1908/CS-Books  - Awesome list of Comp sci books  
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md  
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html  
 ### If you are only going to read one, read this one
 https://www.learninpublic.org/?from=DEV.to - Easily the best technical book I have ever read  
@@ -401,7 +395,6 @@ https://eloquentjavascript.net/ - Eloquent JavaScript
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - The quintessential book on technical interviews  
 http://speakingjs.com/es5/index.html#toc_ch18 - Speaking JavaScript   
 https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf - Refactor your wetware  
-https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf - Introduction to Algorithms  
 
 ## Find links to other big lists
 ### The best collection for every useful worthwhile list
@@ -444,7 +437,6 @@ https://github.com/amrrs/For-Data-Science-Beginners
 https://github.com/hsavit1/Awesome-Swift-Education  
 https://github.com/gaerae/awesome-algorithms-education  
 https://github.com/kryz81/awesome-nodejs-learning  
-https://github.com/xuac/warezz  
 https://github.com/lnishan/awesome-competitive-programming  
 https://github.com/aalhour/awesome-compilers  
 https://github.com/didicodes/javascript-dev-bookmarks  
@@ -652,7 +644,6 @@ https://www.toptal.com/go/interview-questions
 ## Laugh
 https://www.destroyallsoftware.com/talks/wat  
 https://youtu.be/y8OnoxKotPQ   
-
 ## Search for jobs
 https://github.com/jwasham/coding-interview-university#coding-question-practice. - Excellent getting hired handbook  
 https://github.com/cassidoo/getting-a-gig - How to get a gig as a student  
@@ -669,7 +660,6 @@ https://monster.com
 https://simplyhired.com  
 https://toptal.com  
 https://hired.com  
-https://codepen.io/jobs  
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
@@ -731,7 +721,6 @@ https://github.com/denysdovhan/wtfjs
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/coding-questions.md  
 https://adevait.com/javascript-developers/interview-questions  
 https://www.toptal.com/javascript/interview-questions  
-http://davidshariff.com/quiz/  
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md  
 https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript  
 https://github.com/h5bp/Front-end-Developer-Interview-Questions or https://frontendmasters.com/books/front-end-handbook/2019/  
@@ -868,7 +857,6 @@ https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org
 
 ## Competitive programming
 https://www.topcoder.com/community/competitive-programming/tutorials/  
-https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/%20  
 https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4  
   
 ## Math  
@@ -879,7 +867,6 @@ http://joshua.smcvt.edu/linearalgebra/book.pdf
 https://www.khanacademy.org/math/linear-algebra  
 ### Math for comp sci  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/  
-https://courses.csail.mit.edu/6.042/spring17/mcs.pdf  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
 ### Calculus  
@@ -1061,8 +1048,6 @@ https://github.com/sorrycc/awesome-javascript - Awesome list about JS libraries 
 https://github.com/didicodes/javascript-dev-bookmarks - Awesome list about JS bookmarks to help you out   
 ### Prototypal inheritance  
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-### Automatic semi-colon insertion (ASI)
-https://inimino.org/~inimino/blog/javascript_semicolons  
 ### Hoisting
 https://gist.github.com/maxogden/4bed247d9852de93c94c  
 ### ES6 iterators and generators
@@ -1072,8 +1057,6 @@ https://github.com/nas5w/javascript-tips-and-tidbits#closures
 https://bonsaiden.github.io/JavaScript-Garden/ - Quirky bits of JS  
 ### this keyword
 https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth  
-### Transducers
-https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624  
 ### Inheritance
 https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
@@ -1152,8 +1135,6 @@ salary negociations
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://fearlesssalarynegotiation.com/book/
 
-soft skills of developers
-http://chadfowler.com/2013/04/09/who-i-want-to-hire.html
 
 aws cloud study cert
 https://www.selikoff.net/2019/01/20/how-i-recommend-studying-for-the-aws-certified-cloud-practitioner-exam/
@@ -1178,7 +1159,6 @@ https://caferati.me/portfolio
 https://kuon.space/#reile
 https://moonfarmer.com/
 https://titusklein.com/
-http://www.jennyjohannesson.com/
 http://riccardozanutta.com/
 
 event loop
@@ -1204,10 +1184,8 @@ https://medium.com/better-programming/threading-in-swift-simply-explained-5c8dd6
 
 iOS app lifecycle
 https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b
-https://candostdagdeviren.com/ios-view-lifecycle/
 https://guides.codepath.com/ios/View-Controller-Lifecycle
 https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
-https://candostdagdeviren.com/ios-view-lifecycle/
 
 To read
 https://nshipster.com/
@@ -1284,11 +1262,9 @@ design patterns
 https://springframework.guru/gang-of-four-design-patterns/
 
 tech debt
-https://guides.hashicorp.now.sh/general-code/tech-debt#what-if-you-discover-technical-debt
 https://twitter.com/jessitron/status/1123310331957145601
 https://lethain.com/migrations/
 https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
-https://guides.hashicorp.now.sh/general-code/tech-debt#what-is-technical-debt
 
 learn in public
 https://chriscoyier.net/2012/09/23/working-in-public/
@@ -1397,7 +1373,6 @@ https://twitter.com/kimgoodwin/status/1020029572266438657 - Kim Goodwin on Twitt
 
 https://alexdanco.com/2019/10/17/the-audio-revolution/ - The Audio Revolution – alexdanco.com
 https://wincent.com/blog/on-the-right-to-disagree - On the right to disagree · wincent.com
-https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch05s03.html - Breakable Toys - Apprenticeship Patterns [Book]
 https://danielmiessler.com/blog/build-successful-infosec-career/#bounty - How to Build a Cybersecurity Career [2019 Update] - Daniel Miessler
 https://xkcd.com/ - xkcd: Ballot Tracker Tracker
 https://xkcd.com/1205/ - xkcd: Is It Worth the Time?
@@ -1455,7 +1430,6 @@ https://npmcharts.com/ - Compare download trends of npm packages - npmcharts �
 https://www.youtube.com/watch?v=EeYvFl7li9E - Ryan Dahl: Node JS - YouTube
 https://vimeo.com/174172567 - Phil Hawksworth: Dynamic Static Site Strategies (And Other Tongue Twisters) (SmashingConf NYC ’16) on Vimeo
 https://www.youtube.com/watch?v=Lby6fk5gC4k - Ruth John: How To Be A Web A/V Artist - JSConf EU 2017 - YouTube
-https://awesometalks.party/video/cjqxy36f70xbp0147o7q2zj5x - 404: NOT_FOUND
 https://www.youtube.com/watch?v=panKf9hzUfQ - CSS Algorithms - Lara Schenck - JSConf US 2019 - YouTube
 https://www.swyx.io/ideas/?show=Talks&show=Podcasts&filter=react-hooks/ - swyx - Ideas
 https://www.youtube.com/watch?v=RB6MvSEaMKI&feature=emb_title - Heresy in the Church of Docker - Corey Quinn - YouTube
@@ -1504,7 +1478,6 @@ https://substack.com/ - Substack
 https://teachable.com/ - Teachable: Create and sell online courses and coaching
 https://nymag.com/intelligencer/2014/10/marc-andreessen-in-conversation.html - Marc Andreessen on Why Optimism Is Safest Bet -- NYMag
 https://neilpatel.com/blog/solomo/ - Are You Going SoLoMo? - The Combined Power of Social, Local and Mobile Commerce
-https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_2d85c986-7932-4594-ad9b-ca29947af42b - TechCrunch is now a part of Verizon Media
 https://overreacted.io/things-i-dont-know-as-of-2018/ - Things I Don’t Know as of 2018 — Overreacted
 https://overreacted.io/the-elements-of-ui-engineering/ - The Elements of UI Engineering — Overreacted
 https://www.youtube.com/watch?v=Y4wnbkatj20&feature=youtu.be&t=1311 - The 7 Pillar Developer: A holistic approach to building an exceptional career by Cory House - YouTube
@@ -1526,7 +1499,6 @@ https://capgemini.gitbooks.io/grade-ladder/content/ - Introduction · Grade-ladd
 https://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/ - Artsy's Engineering Compensation Framework - Artsy Engineering
 https://dresscode.renttherunway.com/blog/ladder - Sharing Our Engineering Ladder — RTR Dress Code
 https://docs.google.com/spreadsheets/d/15ACBs-crUHnqf1wANUQwX9oZIDOi5tvJJXGWpKTcf00/edit#gid=0 - Thumbtack Eng Career Growth Framework V1.0 [EXTERNAL] - Google Sheets
-https://medium.com/thumbtack-engineering/how-we-built-an-engineering-job-ladder-from-the-ground-up - Medium
 https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/ - Engineering management - CircleCI's engineering competency matrix - CircleCI
 https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0 - CircleCI Engineering Competency Matrix [public version] - Google Sheets
 https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0 - Software Development/Leadership Ladder, multi-track, public - Google Sheets
@@ -1577,7 +1549,6 @@ http://abovethecrowd.com/2019/02/27/money-out-of-nowhere-how-internet-marketplac
 https://a16z.com/2020/02/18/marketplace-100/ - The a16z Marketplace 100
 https://gumroad.com/features/pricing - Gumroad - Pricing
 https://www.theregister.com/2018/08/29/app_store_duopoly_30_per_cent/ - A decade on, Apple and Google's 30% app store cut looks pretty cheesy • The Register
-https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_d4ca4a18-8960-46a3-81ef-4a1ee001c04b - TechCrunch is now a part of Verizon Media
 https://www.lennyrachitsky.com/p/maintaining-quality-kickstarting - Maintaining Quality 🏅 Phase 2 of Kickstarting and Scaling a Marketplace Business - Lenny's Newsletter
 https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network - cdixon - Come for the tool, stay for the network
 https://www.matthewball.vc/all/7reasonsgaming - 7 Reasons Why Video Gaming Will Take Over — MatthewBall.vc
@@ -1587,7 +1558,6 @@ https://coss.media/open-core-definition-examples-tradeoffs/ - Open Core Business
 https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ - Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
 https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People - The 7 Habits of Highly Effective People - Wikipedia
 https://www.thoughtworks.com/radar - Technology Radar - An opinionated guide to technology frontiers - ThoughtWorks
-http://themattheweffect.org/tag/richard-feynman/ - Richard Feynman - The Matthew Effect
 https://learning-from-leaders.de/get-rid-of-the-fear-of-missing-information/
 https://twitter.com/viviancromwell/status/793515757212622848 - Vivian Cromwell on Twitter: "@cpojer I didn't know that but I did know @tomocchino was on that project. Is this how it works "MooTools Mafia"? (https://t.co/6OyRixMHGG)" / Twitter
 https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture) - 1% rule (Internet culture) - Wikipedia
@@ -1668,11 +1638,6 @@ https://www.reddit.com/r/learnprogramming/comments/eezz26/what_are_some_bad_prog
 https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/?fbclid=IwAR1slPdsHvBQMI9sqZFIuum20X46GojX6K8w9ZTscL0UJPnicwOGyK714OQ
 
 https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/ <- when they need a cv
-
-advanced ts:
-https://www.pluralsight.com/courses/typescript-advanced
-
-https://www.pluralsight.com/courses/typescript-in-depth <- JUST THE GENERICS SECION, NOT EVERYTHING
 
 js bits,
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
@@ -1873,9 +1838,6 @@ https://www.pluralsight.com/courses/motion-design-css
 https://css-animations.io/
 •	Flexbox:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-JavaScript
-•	Automatic semicolon insertion
-http://inimino.org/~inimino/blog/javascript_semicolons 
 
 •	this keyword
 https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth 
@@ -1883,13 +1845,11 @@ https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth
 https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1 
 https://github.com/leonardomso/33-js-concepts 
 •	ES6
-https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624 
 https://github.com/nas5w/javascript-tips-and-tidbits#closures 
 https://medium.com/@slavik57/async-race-conditions-in-javascript-526f6ed80665
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
 •	Total lesson based coverage
 https://teamtreehouse.com/library/topic:js
-https://sabe.io/classes/js 
 https://learn.freecodecamp.org/
 https://www.khanacademy.org/computing/computer-programming
 CORS
@@ -1913,19 +1873,12 @@ Quincy's recommended article: I spent 3 months applying to jobs after a coding b
 Algorithm Expert: https://www.algoexpert.io/
 Full Stack Academy https://www.fullstackacademy.com
 Shawn's Learn In Public movement:
-Shawn's Learn In Public essay https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5‌‌
 Kent C Dodds' Zero to 60 in Software Development: How to Jumpstart Your Career https://www.youtube.com/watch?v=-qPh6I2hfjw&app=desktop‌‌
-Cory House on Becoming an Outlier: https://vimeo.com/97415346‌‌
-Brad Frost on Creative Exhaust: http://bradfrost.com/blog/post/creative-exhaust/‌‌
 Patrick McKenzie on the origin of the word "friendcatcher": https://news.ycombinator.com/item?id=511089‌‌
 Chris Coyier on "Working In Public": https://chriscoyier.net/2012/09/23/working-in-public/
 Links to other things we discuss:
-Shawn's Software Engineering Daily Interview with Sacha Greif: https://softwareengineeringdaily.com/2017/08/09/state-of-javascript-with-sacha-greif/‌‌
-The origin of No Zero Days: https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/‌‌
 John Resig, creator of jQuery, telling his team to rip out jQuery: http://bikeshed.fm/180
-‌‌Jeff Bezos' Two Pizza Team rule: https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done‌‌
-Shawn's "You can learn so much on the internet for the low, low price of your ego" quote draws from Paul Graham's Keep Your Identity Small: http://paulgraham.com/identity.html‌‌
-Shawn's Impostor Syndrome Bootcamp Podcast: https://player.fm/series/impostor-syndrome‌‌
+‌‌Jeff Bezos' Two Pizza Team rule: https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success
 TypeScript's growth via npm surveys: https://mobile.twitter.com/seldo/status/1088240877107965953
 
 Browser
@@ -1987,8 +1940,6 @@ https://www.khanacademy.org/math
 
 
 Algorithms and data structures
-•	Mathematical proofs and explanations
-https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf
 •	Simple explanation and intro
 https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174 
 •	Data structs
