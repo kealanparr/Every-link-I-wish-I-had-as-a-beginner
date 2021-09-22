@@ -1,6 +1,7 @@
 const lineByLine = require("line-by-line");
 const axios = require("axios");
 const fs = require("fs");
+fs.truncateSync("broken.txt", 0);
 
 const noOp = () => {};
 
