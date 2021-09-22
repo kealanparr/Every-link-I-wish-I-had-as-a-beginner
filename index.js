@@ -1,7 +1,8 @@
+const lineByLine = require("line-by-line");
+const axios = require("axios");
+const fs = require("fs");
 
-const lineByLine = require('line-by-line');
-const axios = require('axios');
-const fs = require('fs');
+const noOp = () => {};
 
 const log = (data) => {
 	fs.appendFile("broken.txt", data + "\r\n", (err) => {
@@ -11,32 +12,33 @@ const log = (data) => {
 	});
 }
 
-lr = new lineByLine('README.md')
-
-lr.on('line', function (line) {
-
-	const url = line.match(/http\S+/gi);
-
-	if (url && url[0]) {
-		(async () => {
-			try {
-				await axios.get(encodeURI(url[0]));
-			} catch (err) {
-				if (err.response.status > 400) {
-					log(err.response.status + " -> " + url[0]);
-				} else {
-					log(url[0]);
-				}
+const checkResponseCode = (url) => {
+	(async () => {
+		try {
+			await axios.get(encodeURI(url));
+		} catch (err) {
+			if (err.response.status > 400) {
+				log(err.response.status + " -> " + url);
+			} else {
+				log(url);
 			}
-		})().catch(e => {
-			log(url[0]);
-		});
-	}
-});
+		}
+	})().catch(() => {
+		log(url);
+	});
+};
 
-lr.on('error', function (err) {
-	// At the minute, noop
-});
-process.on('uncaughtException', (err, origin) => {
-	// At the minute, noop
-});
+const forEachUrl = (callback) => {
+	const lr = new lineByLine("README.md");
+	lr.on("error", noOp);
+	lr.on("line", (line) => {
+		const url = line.match(/http\S+/gi);
+		if (url && url[0]) {
+			callback(url[0]);
+		}
+	});
+};
+
+forEachUrl(checkResponseCode);
+
+process.on("uncaughtException", noOp);

@@ -1,0 +1,23 @@
+{
+  "name": "every-link-i-wish-i-had-as-a-beginner",
+  "version": "1.0.0",
+  "description": "A step to try and reduce link rot in the ELIWIH repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner/issues"
+  },
+  "homepage": "https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "line-by-line": "^0.1.6"
+  }
+}
