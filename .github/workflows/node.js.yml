@@ -3,7 +3,7 @@
 name: Node.js Link Rot prevention
 on:
   schedule:
-    - cron:  '0 9 * * *' # '* * * * *'
+    - cron:  '* * * * *' # '0 9 * * *' 
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +21,7 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - run: npm install
-    - run: node index
+    - run: node ./index
     - run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
