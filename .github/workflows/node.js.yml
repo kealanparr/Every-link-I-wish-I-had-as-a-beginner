@@ -19,15 +19,10 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-    - name: node index.js
     - run: node ./index
-    - name: set up GitHub bot email
-    - run: git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com" 
-    - name: set up GitHub username
+    - run: git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
     - run: git config --local user.name "github-actions[bot]"
-    - name: add broken.txt file
-    - run: git add broken.txt 
-    - name: commit the broken.txt
+    - run: git add broken.txt
     - run: git commit -m "GitHub actions link rot prevention"
     - name: Push changes
       uses: ad-m/github-push-action@master
