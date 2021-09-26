@@ -41,5 +41,3 @@ const forEachUrl = (callback) => {
 };
 
 forEachUrl(checkResponseCode);
-
-process.on("uncaughtException", noOp);
