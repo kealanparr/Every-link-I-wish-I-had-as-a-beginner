@@ -55,6 +55,9 @@ const forEachUrl = (callback) => {
 	const lr = new lineByLine("README.md");
 	lr.on("error", noOp);
 	console.log("does get to step 8?");
+	setTimeout(()=>{
+		console.log('did it even wait for it?')
+	},1000)
 	lr.on("line", (line) => {
 		console.log("does get to step 9?");
 		const url = line.match(/http\S+/gi);
