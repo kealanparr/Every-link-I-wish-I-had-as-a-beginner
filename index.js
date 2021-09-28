@@ -52,7 +52,7 @@ console.log("does get to step 5?");
 
 const forEachUrl = (callback) => {
 	console.log("does get to step 7?");
-	const lr = new lineByLine("README.md");
+	const lr = new lineByLine("readme.md");
 	lr.on("error", noOp);
 	console.log("does get to step 8?");
 	setTimeout(()=>{
