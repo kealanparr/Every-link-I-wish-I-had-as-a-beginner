@@ -1225,9 +1225,6 @@ https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=
 https://circleci.com/blog/its-the-future/
 https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
 
-open ai writting
-https://openai.com/
-
 How to improve and understand stack overflow
 https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
 
@@ -1356,28 +1353,14 @@ https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-on
 motivation:
 https://www.youtube.com/watch?v=ESYYby1FuPc
 
-business
-https://www.reddit.com/r/Entrepreneur/comments/eg9r74/main_advice_for_those_starting_their_own_business/
-https://www.nichepursuits.com/how-to-build-niche-website/
-https://empireflippers.com/sell-your-site/
-https://longtailpro.com/?utm_source=nichepursuits&utm_campaign=LongTailPro&utm_medium=blog#a_aid=haws
 
-money + salary negociations
-Patrick McKenzie on Salary Negotiation
+
 salary negociations
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://fearlesssalarynegotiation.com/book/
-https://twitter.com/patio11/status/1269539448196173825 - Patrick McKenzie on Twitter: "It is not a coincidence that e.g. Google recruiters will, when you ask for more money, mention that the food benefit is worth $10k+. That sits in a document titled something like "Responses to candidate pushback about salary."" / Twitter
-https://twitter.com/Bosefina/status/1269338890067984384 - Bo Ren on Twitter: "4/ Our self-collected data from my RPM class showed that all the women PMs and one LatinX PM were paid 20% less collectively in total comp (salary, equity, and signing bonus)! We were all told by our recruiter that our offer was non-negotiatable when we signed." / Twitter
 https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template
 https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counter a job offer - salary negotiation script & calculator
-https://investedwallet.com/best-vanguard-index-funds/
-https://www.kiplinger.com/slideshow/investing/T044-S001-16-high-yield-monthly-dividend-stocks-to-buy/index.html
-https://www.youtube.com/watch?v=4dswzb-8nHk&feature=share
-https://www.suredividend.com/10-of-the-highest-yielding-reits-analyzed-in-detail/
-https://www.reddit.com/r/investing/comments/9n31xf/introducing_the_white_girl_index/
-https://app.mad-dividends.com/#/freePortfolioTracker/overview?portfolioId=1195
-https://qz.com/913249/the-practical-steps-it-takes-to-actually-become-a-millionaire/?utm_source=qzfbarchive
-https://www.reddit.com/r/UKPersonalFinance/comments/eeh2xe/vanguard/
+
+
 
 -->
