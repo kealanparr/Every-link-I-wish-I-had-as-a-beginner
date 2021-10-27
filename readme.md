@@ -1353,14 +1353,108 @@ https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-on
 motivation:
 https://www.youtube.com/watch?v=ESYYby1FuPc
 
-
-
 salary negociations
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://fearlesssalarynegotiation.com/book/
 https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template
 https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counter a job offer - salary negotiation script & calculator
+https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/
+https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
+https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/#.w30tfvb9r
+https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
+https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement
+
+Encoding
+•	General introduction
+https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/ <- Shameless self plug
+
+Comp science
+•	Open source comp science degree
+https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/ 
+https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/edit#gid=1015216084
+
+•	Golang
+o	Golang concurrency
+https://app.pluralsight.com/library/courses/go-concurrent-programming/table-of-contents
+o	Golang fundamentals
+https://tinyurl.com/y4qxpy7z 
+https://app.pluralsight.com/library/courses/creating-web-applications-go-update/table-of-contents 
+•	Fiddler
+https://app.pluralsight.com/library/courses/fiddler-chrome-developer-tools-debugging-website/table-of-contents
+Regex
+•	General introduction
+https://sabe.io/classes/javascript/regular-expressions
+https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents
+
+Algorithms and data structures
+•	Simple explanation and intro
+https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174 
+•	Data structs
+https://blog.kevinchisholm.com/javascript/associative-arrays-in-javascript/
+•	Hands on experience
+https://leetcode.com/problemset/all/ - Premium too? 
+Hands on experience
+•	Practice problem solving
+https://www.codewars.com/dashboard
+https://leetcode.com/problemset/all/
+https://learn.freecodecamp.org/
+
+react ts
+https://github.com/typescript-cheatsheets/react
 
 
+Job boards
+	https://about.gitlab.com/jobs/
+	flexjobs.com
+	remote.co
+	justremote.co
+	weworkremotely.com
+	remoteok.io
+	jobspresso.co
+	europeremotely.com
+	wfh.io
+	dailyremote.com
+	angel.co
+	jsremotely.com
+	remoteleaf.com
+	remoteleads.io
+	hired.com
+
+
+	Interview
+	Job Search / Salary Negotation articles:
+Cracking the Coding Interview: https://fcc.im/2UihbNm
+Hasseeb Qureshi's story of getting a $250K/y developer job at Airbnb: https://haseebq.com/farewell-app-academy-hello-airbnb-part-i
+Steve Yegge's "Get that job at Google" essay: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+Quincy's recommended article: I spent 3 months applying to jobs after a coding bootcamp. Here's what I learned: https://medium.freecodecamp.org/9a07468d2331
+Algorithm Expert: https://www.algoexpert.io/
+Full Stack Academy https://www.fullstackacademy.com
+Shawn's Learn In Public movement:
+Kent C Dodds' Zero to 60 in Software Development: How to Jumpstart Your Career https://www.youtube.com/watch?v=-qPh6I2hfjw&app=desktop‌‌
+Patrick McKenzie on the origin of the word "friendcatcher": https://news.ycombinator.com/item?id=511089‌‌
+Chris Coyier on "Working In Public": https://chriscoyier.net/2012/09/23/working-in-public/
+Links to other things we discuss:
+John Resig, creator of jQuery, telling his team to rip out jQuery: http://bikeshed.fm/180
+‌‌Jeff Bezos' Two Pizza Team rule: https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success
+TypeScript's growth via npm surveys: https://mobile.twitter.com/seldo/status/1088240877107965953
+
+fe handbook
+https://frontendmasters.com/guides/front-end-handbook/2018/
+
+CSS
+•	Total lesson based coverage
+https://teamtreehouse.com/library/topic:css
+https://sabe.io/classes/css
+https://learn.freecodecamp.org/
+https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics
+css animations
+	https://css-animations.io/
+	https://www.pluralsight.com/courses/motion-design-css
+	https://css-animations.io/
+	•	Flexbox:
+	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+To laugh?
+https://nikolas.github.io/github-drama/  Be careful this isnt insulting - how does the repo intro explain it?
 
 -->
