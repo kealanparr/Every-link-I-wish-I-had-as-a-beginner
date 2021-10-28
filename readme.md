@@ -1332,18 +1332,6 @@ https://v8.dev/blog/cost-of-javascript-2019
 
 https://jakearchibald.com/2016/fun-hacks-faster-content/
 
-GO:
-finish tour of go, https://tour.golang.org/methods/19
-then read https://golang.org/doc/effective_go.html, read https://gobyexample.com/
-then go read this stuff -> https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/ 
-then code something:
-either
-https://app.pluralsight.com/player?course=creating-web-applications-go-update&author=mike-vansickle&name=creating-web-applications-go-update-m8&clip=0&mode=live
-or
-https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
-or
-https://golang.org/doc/articles/wiki/
-
 https://www.toptal.com/go/interview-questions
 
 https://nodejs.org/uk/docs/guides/event-loop-timers-and-nexttick/
@@ -1353,7 +1341,12 @@ https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-on
 motivation:
 https://www.youtube.com/watch?v=ESYYby1FuPc
 
+start a business
+http://www.paulgraham.com/startupideas.html
+
 salary negociations
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/
+https://www.levels.fyi/Salaries/Software-Engineer/United-Kingdom/
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://fearlesssalarynegotiation.com/book/
 https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template
@@ -1361,8 +1354,8 @@ https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counte
 https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/
 https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
 https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/#.w30tfvb9r
-https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
 https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement
+https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer#
 
 Encoding
 •	General introduction
@@ -1386,18 +1379,6 @@ Regex
 https://sabe.io/classes/javascript/regular-expressions
 https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents
 
-Algorithms and data structures
-•	Simple explanation and intro
-https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174 
-•	Data structs
-https://blog.kevinchisholm.com/javascript/associative-arrays-in-javascript/
-•	Hands on experience
-https://leetcode.com/problemset/all/ - Premium too? 
-Hands on experience
-•	Practice problem solving
-https://www.codewars.com/dashboard
-https://leetcode.com/problemset/all/
-https://learn.freecodecamp.org/
 
 react ts
 https://github.com/typescript-cheatsheets/react
@@ -1438,9 +1419,6 @@ John Resig, creator of jQuery, telling his team to rip out jQuery: http://bikesh
 ‌‌Jeff Bezos' Two Pizza Team rule: https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success
 TypeScript's growth via npm surveys: https://mobile.twitter.com/seldo/status/1088240877107965953
 
-fe handbook
-https://frontendmasters.com/guides/front-end-handbook/2018/
-
 CSS
 •	Total lesson based coverage
 https://teamtreehouse.com/library/topic:css
@@ -1453,8 +1431,5 @@ css animations
 	https://css-animations.io/
 	•	Flexbox:
 	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-To laugh?
-https://nikolas.github.io/github-drama/  Be careful this isnt insulting - how does the repo intro explain it?
 
 -->
