@@ -202,6 +202,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Basic project ideas](#Basic-project-ideas)  
 [Event loop in the node env](#Event-loop-in-the-node-env)  
 #### [React](#React-1)
+[React TypeScript cheatsheet](#React-typescript-cheatsheet)
 #### [Java](#Java-1)
 #### [Go](#Go-1)
 [Make your first server](#Make-your-first-server)  
@@ -253,6 +254,8 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ -
 http://jsforcats.com/ - Basic introduction to what JS is with cats  
 https://github.com/microsoft/Web-Dev-For-Beginners - A really good introduction to website development for total beginners, made by Microsoft  
 https://edu.gcfglobal.org/en/computerbasics/ - A general introduction to computers, and computer terms  
+https://stackoverflow.blog/2019/08/07/what-every-developer-should-learn-early-on/  - An excellent article to explain Software Engineering in broad terms  
+https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/ - How to break into the Tech world with your first job   
 
 ## Overview
 https://www.progression.fyi/ - A large overview of technical companies expectations for career progression  
@@ -354,6 +357,8 @@ https://www.sidehustlenation.com/
 https://www.quinntonharris.com/  
 https://www.seanhalpin.design/  
 http://www.pascalvangemert.nl/#/abilities  
+https://animalmade.com/  
+https://moonfarmer.com/  
 
 <!-- Section I have: END -->
 
@@ -466,6 +471,7 @@ https://www.youtube.com/watch?v=bcPahhyYEIk&ab_channel=freeCodeCamp.org
 https://teachyourselfcs.com/  
 https://github.com/ossu/computer-science  
 https://github.com/ForrestKnight/open-source-cs  
+https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/edit#gid=1015216084  
 
 ## Find high quality podcasts
 https://www.swyx.io/fave-podcasts/  
@@ -643,6 +649,9 @@ https://www.toptal.com/go/interview-questions
 ## Laugh
 https://www.destroyallsoftware.com/talks/wat  
 https://youtu.be/y8OnoxKotPQ   
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9  
+https://circleci.com/blog/its-the-future/  
+https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/  
 ## Search for jobs
 https://github.com/jwasham/coding-interview-university#coding-question-practice. - Excellent getting hired handbook  
 https://github.com/cassidoo/getting-a-gig - How to get a gig as a student  
@@ -659,10 +668,24 @@ https://monster.com
 https://simplyhired.com  
 https://toptal.com  
 https://hired.com  
+https://about.gitlab.com/jobs/  
+https://flexjobs.com  
+https://jobspresso.co  
+https://angel.co  
+https://hired.com  
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
 https://stackoverflow.com/jobs/remote-developer-jobs…  
+https://justremote.co  
+https://weworkremotely.com  
+https://remoteok.io  
+https://jsremotely.com  
+https://remoteleaf.com  
+https://remoteleads.io  
+https://europeremotely.com  
+https://wfh.io  
+https://dailyremote.com  
 ### Women focused job boards
 https://hiretechladies.com  
 ### iOS  
@@ -1022,6 +1045,8 @@ https://nodejs.org/uk/docs/guides/event-loop-timers-and-nexttick/
 ## React  
 https://github.com/benmvp/react-workshop    
 https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/  
+### React TypeScript cheatsheet  
+https://github.com/typescript-cheatsheets/react  
 ## Java  
 https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required/  
 ## Go  
@@ -1099,9 +1124,10 @@ https://react-etc.net/files/typescript-book/typescript.pdf
 https://basarat.gitbook.io/typescript/  
 ### Roadmaps
 https://roadmap.sh/ - Start to plan out your career trajectory and where you may be weak  
-https://github.com/kamranahmedse/developer-roadmap  
+https://github.com/kamranahmedse/developer-roadmap - Plan out a developer roadmap  
 https://github.com/orsanawwad/awesome-roadmaps  
 https://github.com/Microsoft/TypeScript/wiki/Roadmap  
+https://danielmiessler.com/blog/build-successful-infosec-career/ - A roadmap to have a successful infosec career  
 ### TypeScript docs
 https://www.typescriptlang.org/docs/  
 ### Advanced types
@@ -1133,213 +1159,31 @@ https://www.udacity.com/course/advanced-android-with-kotlin--ud940
 
 <!-- 
 
-aws cloud study cert
-https://www.selikoff.net/2019/01/20/how-i-recommend-studying-for-the-aws-certified-cloud-practitioner-exam/
-
-ways to be better
-https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
-https://kealanparr.dev/4-biggest-tips-to-improve-as-a-developer
-https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
-https://www.businessinsider.com/the-meanings-of-googliness-2013-8?r=US&IR=T
-https://overreacted.io/goodbye-clean-code/
-
-On being a senior/ staff eng
-https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-
-Nice designs
-https://animalmade.com/
-http://y78.fr/
-https://resn.co.nz/
-https://caferati.me/portfolio
-https://kuon.space/#reile
-https://moonfarmer.com/
-https://titusklein.com/
-http://riccardozanutta.com/
-
-Microcontroller
-https://www.espruino.com/
-Arduino
-Rasberry Pi
-
-iOS
-Things you should defo know
-https://medium.com/swlh/things-you-should-definitely-know-as-an-ios-developer-part-1-dbfadc5fd5ed
-https://medium.com/swlh/things-you-should-definitely-know-as-an-ios-developer-part-2-1182402dec20
-
-gcd
-https://developer.apple.com/videos/play/wwdc2016/720/
-https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2
-https://www.appcoda.com/grand-central-dispatch/
-https://medium.com/@JoyceMatos/grand-central-dispatch-swift-3-93f995c15fd2#:~:text=Grand%20Central%20Dispatch%2C%20or%20GCD%2C%20is%20a%20way%20to%20handle,ultimately%20managed%20by%20the%20system.
-https://medium.com/better-programming/threading-in-swift-simply-explained-5c8dd680b9b2
-
-iOS app lifecycle
-https://hackernoon.com/application-life-cycle-in-ios-12b6ba6af78b
-https://guides.codepath.com/ios/View-Controller-Lifecycle
-https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
-
-To read
-https://nshipster.com/
-
-Cheatsheets swift
-https://github.com/iwasrobbed/Swift-CheatSheet
-
-fascinatng reads
-http://boringtechnology.club/#23
-
-emergency, must fix, 
-https://google.github.io/eng-practices/review/emergencies.html
-
-testing
-https://kentcdodds.com/blog/write-tests
-https://engineering.atspotify.com/2018/01/11/testing-of-microservices/
-
-beginner first steps
-https://stackoverflow.blog/2019/08/07/what-every-developer-should-learn-early-on/
-
-algo and data structs
-Swift
-https://github.com/raywenderlich/swift-algorithm-club
-
-Get your first tech job
-https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
-https://text.npr.org/133474431
-
 Technical leadership/manager
 https://keavy.com/work/thriving-on-the-technical-leadership-path/
-no.lol/2019-03-09-should-i-become-a-tech-lead/
+https://no.lol/2019-03-09-should-i-become-a-tech-lead/
 https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/
-
-naming
-https://www.swyx.io/how-to-name-things/
-
-technical writting
-https://reid.medium.com/those-who-teach-can-do-98a30e9a74ea
-https://developers.google.com/tech-writing
-https://gist.github.com/zsup/9434452
-https://training.kalzumeus.com/newsletters/archive/content-marketing-strategy
-
-laugh
-https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9
-https://circleci.com/blog/its-the-future/
-https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
-
-How to improve and understand stack overflow
-https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
 
 learn css
 https://frontendmasters.com/courses/css-in-depth-v2/
+https://teamtreehouse.com/library/topic:css
+https://sabe.io/classes/css
+https://learn.freecodecamp.org/
 https://www.youtube.com/watch?v=u00FY9vADfQ&feature=youtu.be
 https://courses.thecssworkshop.com/
 https://scrimba.com/learn/htmlcss
 css animations
 https://scrimba.com/learn/cssanimations
+https://css-animations.io/
+https://www.pluralsight.com/courses/motion-design-css
+https://css-animations.io/
 every layout for css
 https://every-layout.dev/layouts/stack/
-
-Type of log seriousness levels
-https://en.wikipedia.org/wiki/Syslog#Severity_level
-
-design patterns
-https://springframework.guru/gang-of-four-design-patterns/
 
 tech debt
 https://twitter.com/jessitron/status/1123310331957145601
 https://lethain.com/migrations/
 https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
-
-learn in public
-https://chriscoyier.net/2012/09/23/working-in-public/
-https://www.swyx.io/learn-in-public/
-
-how i write back ends
-https://github.com/fpereiro/backendlore#user-content-notification
-
-cyber security career
-https://danielmiessler.com/blog/build-successful-infosec-career/
-
-mobile developer career
-https://blog.bitsrc.io/how-to-start-a-career-as-a-mobile-developer-d63f197ad501
-
-architecture
-https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler
-
-shift left
-https://www.infostretch.com/resources/white-papers/shift-left/
-
-talks about:
-React
-https://www.youtube.com/watch?v=MQGe9zxlRdk - Maggie Appleton — Drawing the Invisible React Metaphors - YouTube
-
-how to grow your product
-https://github.com/goabstract/Marketing-for-Engineers - GitHub - goabstract/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
-
-How to stop forgetting things
-https://en.wikipedia.org/wiki/Forgetting_curve - Forgetting curve - Wikipedia
-https://en.wikipedia.org/wiki/Spaced_repetition#:~:text=Spaced%20repetition%20is%20a%20method,fact%20is%20presented%20or%20said.
-
-Interesting perspectives on:
-- Meetings
-http://www.paulgraham.com/makersschedule.html - Maker's Schedule, Manager's Schedule
-
-How to prioritise your time
-https://css-tricks.com/prioritizing/ - Prioritizing - CSS-Tricks
-
-In public:
-Learning:
-Working:
-https://twitter.com/swyx/status/1193467826310238208 - shawn swyx wang on Twitter: "The Work In Public loop: Say what you’ll do, do what you said, say what you did, do even better next time" / Twitter
-
-Marketing
-https://www.hubspot.com/inbound-marketing - What Is Inbound Marketing? - HubSpot
-
-Learn about https
-https://doesmysiteneedhttps.com/ - Does my site need HTTPS?
-
-Writting
-https://750words.com/ - 750 Words - Write every day.
-https://diaryemail.com/ - Diary Email
-https://www.writenext.io/ - Make Writing a Habit - WriteNext
-
-C#
-ARKIT & Unity 3D, creating Augmented Reality Apps with C#
-
-Permutation and Combination are two math concepts that are really important for programming. And you can learn how to use both of these without much pre-existing math knowledge. Here's how. (8 minute read): https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/
-
-tech:
-https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/
-https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
-
-
-https://towardsdatascience.com/comparing-the-best-free-financial-market-data-apis-158ae73c16ba financial market api
-https://egghead.io/ - tech site like fcc, for react etc
-https://www.reddit.com/r/hacking/comments/8kshuu/whats_a_good_website_to_learn_ethical_hacking/ ethical hacking
-data struc and algo https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/?fbclid=IwAR0VOsBD9iwm8bvE25ZpW2ZC9W5YfQtrkK6M_APjo8zTpV8RN-i6NYWe1UU
-
-https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/?fbclid=IwAR3o2Xw69CSzQPj6syQhqMs5HK8sy51RU7yEb7O_yRRWabwvCF4NWFv0Q6E - for strarting a channel
-
-https://www.reddit.com/r/learnprogramming/comments/eezz26/what_are_some_bad_programming_habits_you_wished/
-
-https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/?fbclid=IwAR1slPdsHvBQMI9sqZFIuum20X46GojX6K8w9ZTscL0UJPnicwOGyK714OQ
-
-https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/ <- when they need a cv
-
-read
-https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
-then
-https://v8.dev/blog/cost-of-javascript-2019
-
-https://jakearchibald.com/2016/fun-hacks-faster-content/
-
-https://www.toptal.com/go/interview-questions
-
-https://nodejs.org/uk/docs/guides/event-loop-timers-and-nexttick/
-
-https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/
-
-motivation:
-https://www.youtube.com/watch?v=ESYYby1FuPc
 
 start a business
 http://www.paulgraham.com/startupideas.html
@@ -1361,75 +1205,10 @@ Encoding
 •	General introduction
 https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/ <- Shameless self plug
 
-Comp science
-•	Open source comp science degree
-https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/ 
-https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/edit#gid=1015216084
-
-•	Golang
-o	Golang concurrency
-https://app.pluralsight.com/library/courses/go-concurrent-programming/table-of-contents
-o	Golang fundamentals
-https://tinyurl.com/y4qxpy7z 
-https://app.pluralsight.com/library/courses/creating-web-applications-go-update/table-of-contents 
-•	Fiddler
-https://app.pluralsight.com/library/courses/fiddler-chrome-developer-tools-debugging-website/table-of-contents
-Regex
-•	General introduction
-https://sabe.io/classes/javascript/regular-expressions
-https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents
-
-
-react ts
-https://github.com/typescript-cheatsheets/react
-
-
-Job boards
-	https://about.gitlab.com/jobs/
-	flexjobs.com
-	remote.co
-	justremote.co
-	weworkremotely.com
-	remoteok.io
-	jobspresso.co
-	europeremotely.com
-	wfh.io
-	dailyremote.com
-	angel.co
-	jsremotely.com
-	remoteleaf.com
-	remoteleads.io
-	hired.com
-
-
-	Interview
-	Job Search / Salary Negotation articles:
+Interview
 Cracking the Coding Interview: https://fcc.im/2UihbNm
 Hasseeb Qureshi's story of getting a $250K/y developer job at Airbnb: https://haseebq.com/farewell-app-academy-hello-airbnb-part-i
-Steve Yegge's "Get that job at Google" essay: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
-Quincy's recommended article: I spent 3 months applying to jobs after a coding bootcamp. Here's what I learned: https://medium.freecodecamp.org/9a07468d2331
-Algorithm Expert: https://www.algoexpert.io/
-Full Stack Academy https://www.fullstackacademy.com
-Shawn's Learn In Public movement:
-Kent C Dodds' Zero to 60 in Software Development: How to Jumpstart Your Career https://www.youtube.com/watch?v=-qPh6I2hfjw&app=desktop‌‌
-Patrick McKenzie on the origin of the word "friendcatcher": https://news.ycombinator.com/item?id=511089‌‌
-Chris Coyier on "Working In Public": https://chriscoyier.net/2012/09/23/working-in-public/
-Links to other things we discuss:
-John Resig, creator of jQuery, telling his team to rip out jQuery: http://bikeshed.fm/180
-‌‌Jeff Bezos' Two Pizza Team rule: https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success
-TypeScript's growth via npm surveys: https://mobile.twitter.com/seldo/status/1088240877107965953
 
-CSS
-•	Total lesson based coverage
-https://teamtreehouse.com/library/topic:css
-https://sabe.io/classes/css
-https://learn.freecodecamp.org/
-https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics
-css animations
-	https://css-animations.io/
-	https://www.pluralsight.com/courses/motion-design-css
-	https://css-animations.io/
-	•	Flexbox:
-	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Steve Yegge's "Get that job at Google" essay: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 
 -->
