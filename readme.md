@@ -97,8 +97,10 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Mobile](#Mobile)  
 [Dev-ops](#Dev-ops)  
 [Golang](#Golang)  
-#### [I want to laugh](#Laugh)
-#### [I want to search for jobs](#Search-for-jobs)
+#### [I want to laugh](#Laugh)  
+#### [I want to be a Tech Lead](#Be-a-tech-lead)  
+#### [I want to start a company](#Start-a-company)  
+#### [I want to search for jobs](#Search-for-jobs)  
 [General](#General)  
 [Remote jobs](#Remote-jobs)  
 [Women focused job boards](#Women-focused-job-boards)  
@@ -124,6 +126,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Facebook](#Facebook)  
 [Airbnb](#Airbnb)  
 #### [I want to learn about](#I-want-to-learn-about-1)
+[Salary negotiations](#Salary-negotiations) 
 [Software development approaches](#Software-development-approaches)  
 [Progressive web apps](#Progressive-web-apps)  
 [Data science](#Data-science)  
@@ -623,7 +626,6 @@ https://developers.google.com/learn/pathways
 
 # I want to get
 ## Get help with my CV
-CV writing from hiring manager  
 https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/  
 https://www.zipjob.com/ - CV feedback from a real human  
 https://www.grammarly.com/ - Helps with punctuation and spelling    
@@ -652,6 +654,12 @@ https://youtu.be/y8OnoxKotPQ
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9  
 https://circleci.com/blog/its-the-future/  
 https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/  
+## Be a Tech Lead
+com/work/thriving-on-the-technical-leadership-path/  
+https://no.lol/2019-03-09-should-i-become-a-tech-lead/  
+https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/  
+## Start a company
+http://www.paulgraham.com/startupideas.html  
 ## Search for jobs
 https://github.com/jwasham/coding-interview-university#coding-question-practice. - Excellent getting hired handbook  
 https://github.com/cassidoo/getting-a-gig - How to get a gig as a student  
@@ -755,6 +763,19 @@ https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questio
 https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm  
 
 # I want to learn about
+
+## Salary negotiations
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/  
+https://www.levels.fyi/Salaries/Software-Engineer/United-Kingdom/  
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/  
+https://fearlesssalarynegotiation.com/book/  
+https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template  
+https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counter a job offer - Salary negotiation script & calculator  
+https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/  
+https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/  
+https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/#.w30tfvb9r  
+https://www.levels.fyi/  
+
 
 ## Software development approaches
 ### Test driven development
@@ -938,6 +959,7 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 http://igstan.ro/posts/2017-06-06-unicode-vs-utf-8.html    
 https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html    
 https://www.w3.org/International/questions/qa-what-is-encoding  
+https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/ - Shameless self plug of everything you need to know about software encoding  
 
 ## Networks
 https://github.com/nyquist/awesome-networking  
@@ -1155,60 +1177,3 @@ https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
 
 <!-- Section I want to: END -->
-
-
-<!-- 
-
-Technical leadership/manager
-https://keavy.com/work/thriving-on-the-technical-leadership-path/
-https://no.lol/2019-03-09-should-i-become-a-tech-lead/
-https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/
-
-learn css
-https://frontendmasters.com/courses/css-in-depth-v2/
-https://teamtreehouse.com/library/topic:css
-https://sabe.io/classes/css
-https://learn.freecodecamp.org/
-https://www.youtube.com/watch?v=u00FY9vADfQ&feature=youtu.be
-https://courses.thecssworkshop.com/
-https://scrimba.com/learn/htmlcss
-css animations
-https://scrimba.com/learn/cssanimations
-https://css-animations.io/
-https://www.pluralsight.com/courses/motion-design-css
-https://css-animations.io/
-every layout for css
-https://every-layout.dev/layouts/stack/
-
-tech debt
-https://twitter.com/jessitron/status/1123310331957145601
-https://lethain.com/migrations/
-https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
-
-start a business
-http://www.paulgraham.com/startupideas.html
-
-salary negociations
-https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/
-https://www.levels.fyi/Salaries/Software-Engineer/United-Kingdom/
-https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-https://fearlesssalarynegotiation.com/book/
-https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template
-https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counter a job offer - salary negotiation script & calculator
-https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/
-https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
-https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/#.w30tfvb9r
-https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement
-https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer#
-
-Encoding
-•	General introduction
-https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/ <- Shameless self plug
-
-Interview
-Cracking the Coding Interview: https://fcc.im/2UihbNm
-Hasseeb Qureshi's story of getting a $250K/y developer job at Airbnb: https://haseebq.com/farewell-app-academy-hello-airbnb-part-i
-
-Steve Yegge's "Get that job at Google" essay: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
-
--->
