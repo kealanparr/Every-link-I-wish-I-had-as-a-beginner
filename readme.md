@@ -126,7 +126,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Facebook](#Facebook)  
 [Airbnb](#Airbnb)  
 #### [I want to learn about](#I-want-to-learn-about-1)
-[Salary negotiations](#Salary-negotiations) 
+[Salary negotiations](#Salary-negotiations)  
 [Software development approaches](#Software-development-approaches)  
 [Progressive web apps](#Progressive-web-apps)  
 [Data science](#Data-science)  
