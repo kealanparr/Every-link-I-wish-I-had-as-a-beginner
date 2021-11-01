@@ -188,7 +188,7 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Queueing theory ](#Queueing-theory)  
 #### [Learn about website best practices](#Learn-about-website-best-practices-1)  
 #### [Learn the AHA principle](#Learn-the-AHA-principle-1)  
-#### [Roadmaps](#Roadmaps)  
+#### [Roadmaps](#Roadmaps-1)  
 #### [Language specific section](#Language-specific-section-1)
 #### [Learn CSS](#Learn-CSS-1)
 [CSS animations/motion design ](#CSS-animationsmotion-design)  
@@ -1150,6 +1150,7 @@ https://github.com/kamranahmedse/developer-roadmap - Plan out a developer roadma
 https://github.com/orsanawwad/awesome-roadmaps  
 https://github.com/Microsoft/TypeScript/wiki/Roadmap  
 https://danielmiessler.com/blog/build-successful-infosec-career/ - A roadmap to have a successful infosec career  
+https://andreasbm.github.io/web-skills/ - A roadmap for web development  
 ### TypeScript docs
 https://www.typescriptlang.org/docs/  
 ### Advanced types
