@@ -1032,7 +1032,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps  
 ### CSS animations/motion design   
 https://www.pluralsight.com/courses/motion-design-css  
-https://css-animations.io/  
 ### Helpful reminder of different CSS selectors  
 https://gist.github.com/magicznyleszek/809a69dd05e1d5f12d01  
 ### What's the box model?  
