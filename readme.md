@@ -394,7 +394,6 @@ https://www.learninpublic.org/?from=DEV.to - Easily the best technical book I ha
 https://github.com/Michael0x2a/curated-programming-resources    
 https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
 http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective    
-https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf - Designing Data-Intensive Applications  
 https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf - Data structures and algorithms in Java  
 https://github.com/getify/You-Dont-Know-JS  
 https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
