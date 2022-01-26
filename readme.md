@@ -858,6 +858,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop - A good artic
 
 ## Kubernetes
 https://www.udemy.com/topic/kubernetes/?price=price-free&sort=popularity  
+https://www.freecodecamp.org/news/the-kubernetes-handbook/
 
 ## Protocols
 ### TLS
