@@ -679,7 +679,7 @@ https://about.gitlab.com/jobs/
 https://flexjobs.com  
 https://jobspresso.co  
 https://angel.co  
-https://hired.com  
+
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
