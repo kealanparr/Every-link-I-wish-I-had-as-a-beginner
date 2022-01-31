@@ -665,7 +665,6 @@ https://github.com/cassidoo/getting-a-gig - How to get a gig as a student
 ### General
 http://www.gainlo.co/ - Mock interviews with talented engineers  
 https://www.facet.net/ - Passively search for your next job  
-https://jobs.github.com  
 https://jobs.mashable.com/jobs  
 https://indeed.com  
 https://stackoverflow.com/jobs  
@@ -679,6 +678,8 @@ https://about.gitlab.com/jobs/
 https://flexjobs.com  
 https://jobspresso.co  
 https://angel.co  
+https://devitjobs.uk
+https://devitjobs.us
 
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
