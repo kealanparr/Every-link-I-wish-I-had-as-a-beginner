@@ -3,7 +3,7 @@
 name: Node.js Link Rot prevention
 on:
   schedule:
-    - cron: '0 9 1 * *' # '* * * * *' 
+    - cron: '0 0 1 * *' # This is Cali time GMT-8, ensures when I wake up I can investigate if there are issues
 jobs:
   build:
     runs-on: ubuntu-latest
