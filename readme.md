@@ -690,8 +690,7 @@ https://weworkremotely.com
 https://remoteok.io  
 https://jsremotely.com  
 https://remoteleaf.com  
-https://remoteleads.io  
-https://europeremotely.com  
+https://remoteleads.io    
 https://wfh.io  
 https://dailyremote.com  
 ### Women focused job boards
