@@ -169,7 +169,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Advanced Data structs](#Advanced-Data-structs)  
 #### [Math](#Math-1)
 [Linear algebra](#Linear-algebra)  
-[Math for comp sci](#Math-for-comp-sci)  
 [Matrices](#Matrices)  
 [Calculus](#Calculus)  
 [Stats](#Stats)  
@@ -478,7 +477,6 @@ https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b
 ## Find high quality podcasts
 https://www.swyx.io/fave-podcasts/  
 https://freecodecamp.libsyn.com/  
-https://devchat.tv/  
 https://player.fm/featured/tech  
 https://github.com/PizzaPokerGuy/ultimate-coding-resources 
 
@@ -667,7 +665,6 @@ http://www.gainlo.co/ - Mock interviews with talented engineers
 https://www.facet.net/ - Passively search for your next job  
 https://jobs.mashable.com/jobs  
 https://indeed.com  
-https://stackoverflow.com/jobs  
 https://linkedIn.com  
 https://glassdoor.com  
 https://monster.com  
@@ -684,7 +681,6 @@ https://devitjobs.us
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
-https://stackoverflow.com/jobs/remote-developer-jobs…  
 https://justremote.co  
 https://weworkremotely.com  
 https://remoteok.io  
@@ -699,7 +695,6 @@ https://hiretechladies.com
 https://iosdevjobs.com  
 # I want to practice
 ### Ethical hacking  
-https://backdoor.sdslabs.co/challenges/YARP  
 https://overthewire.org/wargames/bandit/bandit0.html  
 https://mlh.io/ - Major League Hacking  
 ### Crypto challenges  
@@ -911,8 +906,6 @@ https://www.khanacademy.org/math
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
 http://joshua.smcvt.edu/linearalgebra/book.pdf  
 https://www.khanacademy.org/math/linear-algebra  
-### Math for comp sci  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
 ### Calculus  
@@ -1056,7 +1049,7 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp/
 ## Node  
 ### Learn Node 
 https://github.com/kryz81/awesome-nodejs-learning - Awesome List about NodeJS  
-https://www.theodinproject.com/courses/nodejs  
+https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs     
 ### Node env  
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70  
 ### Basic project ideas  
