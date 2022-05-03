@@ -1003,7 +1003,6 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 
 ## Fundamentals of comp sci
 https://www.edx.org/course/cs50s-introduction-to-computer-science  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/  
 https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&siteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ  
 ### Queueing theory 
 https://github.com/joelparkerhenderson/queueing_theory  
