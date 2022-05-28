@@ -15,7 +15,7 @@
 </h2>
 
 # What is this?
-I have been a software-engineer for 4 years and had literally hundreds of links that helped me to learn and understand new topics, as I went from a total beginner knowing nothing about coding after finishing my Bsc in Biology, to getting my first job as a junior developer onto becoming a regular software developer.  
+I have been a software-engineer for 5 years and had literally hundreds of links that helped me to learn and understand new topics, as I went from a total beginner knowing nothing about coding after finishing my Bsc in Biology, to getting my first job as a junior developer onto becoming a regular software developer.  
 In this time, I bookmarked, and read 100's of links, and articles. I thought these may be of use to others, so I trimmed links that weren't top quality, and collated it to *hopefully* help people.  
 I have done my best, to apply high standards of only allowing only *the best* links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate etc.)  
 
