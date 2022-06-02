@@ -354,7 +354,6 @@ http://www.rleonardi.com/interactive-resume/
 http://www.garysheng.com/  
 https://www.garicruze.com/  
 https://www.thebeastisback.com/  
-https://everywhereist.com/blog/  
 https://www.sidehustlenation.com/  
 https://www.quinntonharris.com/  
 https://www.seanhalpin.design/  
