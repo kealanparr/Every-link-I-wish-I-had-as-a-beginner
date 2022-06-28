@@ -764,17 +764,16 @@ https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions
 # I want to learn about
 
 ## Salary negotiations
-https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/  
-https://www.levels.fyi/Salaries/Software-Engineer/United-Kingdom/  
-https://www.kalzumeus.com/2012/01/23/salary-negotiation/  
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/ - Most important article to read in-full about negotiation  
+https://www.levels.fyi/ - Tool with average salaries for your country/your role  
+https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/  
+https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea  
+https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/ - Multiple parts to this article, so read all the different parts  
 https://fearlesssalarynegotiation.com/book/  
 https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template - Salary negotiation email samples and a counter offer letter template  
 https://fearlesssalarynegotiation.com/salary-negotiation-script/ - How to counter a job offer - Salary negotiation script & calculator  
-https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/  
-https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/  
-https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/#.w30tfvb9r  
-https://www.levels.fyi/  
-
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/  
+https://youexec.com/book-summaries/bargaining-for-advantage  
 
 ## Software development approaches
 ### Test driven development
