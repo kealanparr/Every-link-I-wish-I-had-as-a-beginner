@@ -15,7 +15,7 @@
 </h2>
 
 # What is this?
-I have been a software-engineer for 4 years and had literally hundreds of links that helped me to learn and understand new topics, as I went from a total beginner knowing nothing about coding after finishing my Bsc in Biology, to getting my first job as a junior developer onto becoming a regular software developer.  
+I have been a software-engineer for 5 years and had literally hundreds of links that helped me to learn and understand new topics, as I went from a total beginner knowing nothing about coding after finishing my Bsc in Biology, to getting my first job as a junior developer onto becoming a regular software developer.  
 In this time, I bookmarked, and read 100's of links, and articles. I thought these may be of use to others, so I trimmed links that weren't top quality, and collated it to *hopefully* help people.  
 I have done my best, to apply high standards of only allowing only *the best* links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate etc.)  
 
@@ -169,7 +169,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Advanced Data structs](#Advanced-Data-structs)  
 #### [Math](#Math-1)
 [Linear algebra](#Linear-algebra)  
-[Math for comp sci](#Math-for-comp-sci)  
 [Matrices](#Matrices)  
 [Calculus](#Calculus)  
 [Stats](#Stats)  
@@ -355,7 +354,6 @@ http://www.rleonardi.com/interactive-resume/
 http://www.garysheng.com/  
 https://www.garicruze.com/  
 https://www.thebeastisback.com/  
-https://everywhereist.com/blog/  
 https://www.sidehustlenation.com/  
 https://www.quinntonharris.com/  
 https://www.seanhalpin.design/  
@@ -478,7 +476,6 @@ https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b
 ## Find high quality podcasts
 https://www.swyx.io/fave-podcasts/  
 https://freecodecamp.libsyn.com/  
-https://devchat.tv/  
 https://player.fm/featured/tech  
 https://github.com/PizzaPokerGuy/ultimate-coding-resources 
 
@@ -665,10 +662,8 @@ https://github.com/cassidoo/getting-a-gig - How to get a gig as a student
 ### General
 http://www.gainlo.co/ - Mock interviews with talented engineers  
 https://www.facet.net/ - Passively search for your next job  
-https://jobs.github.com  
 https://jobs.mashable.com/jobs  
 https://indeed.com  
-https://stackoverflow.com/jobs  
 https://linkedIn.com  
 https://glassdoor.com  
 https://monster.com  
@@ -679,18 +674,18 @@ https://about.gitlab.com/jobs/
 https://flexjobs.com  
 https://jobspresso.co  
 https://angel.co  
-https://hired.com  
+https://devitjobs.uk
+https://devitjobs.us
+
 ### Remote jobs
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
-https://stackoverflow.com/jobs/remote-developer-jobs…  
 https://justremote.co  
 https://weworkremotely.com  
 https://remoteok.io  
 https://jsremotely.com  
 https://remoteleaf.com  
-https://remoteleads.io  
-https://europeremotely.com  
+https://remoteleads.io    
 https://wfh.io  
 https://dailyremote.com  
 ### Women focused job boards
@@ -699,7 +694,6 @@ https://hiretechladies.com
 https://iosdevjobs.com  
 # I want to practice
 ### Ethical hacking  
-https://backdoor.sdslabs.co/challenges/YARP  
 https://overthewire.org/wargames/bandit/bandit0.html  
 https://mlh.io/ - Major League Hacking  
 ### Crypto challenges  
@@ -910,8 +904,6 @@ https://www.khanacademy.org/math
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
 http://joshua.smcvt.edu/linearalgebra/book.pdf  
 https://www.khanacademy.org/math/linear-algebra  
-### Math for comp sci  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
 ### Calculus  
@@ -1009,7 +1001,6 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 
 ## Fundamentals of comp sci
 https://www.edx.org/course/cs50s-introduction-to-computer-science  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/  
 https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&siteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ  
 ### Queueing theory 
 https://github.com/joelparkerhenderson/queueing_theory  
@@ -1055,7 +1046,7 @@ https://www.udemy.com/course/ios-13-app-development-bootcamp/
 ## Node  
 ### Learn Node 
 https://github.com/kryz81/awesome-nodejs-learning - Awesome List about NodeJS  
-https://www.theodinproject.com/courses/nodejs  
+https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs     
 ### Node env  
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70  
 ### Basic project ideas  
