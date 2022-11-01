@@ -397,7 +397,6 @@ https://github.com/getify/You-Dont-Know-JS
 https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
 https://eloquentjavascript.net/ - Eloquent JavaScript  
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - The quintessential book on technical interviews  
-http://speakingjs.com/es5/index.html#toc_ch18 - Speaking JavaScript   
 https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf - Refactor your wetware  
 
 ## Find links to other big lists
@@ -519,7 +518,6 @@ https://devrant.com/feed - Get inside dev's head and their frustrations
 ## Find project ideas  
 ### General  
 https://github.com/danistefanovic/build-your-own-x  
-https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef  
 ## JavaScript  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/  
@@ -885,7 +883,6 @@ https://research.hackerrank.com/developer-skills/2019/ - Developer data from Hac
 https://research.hackerrank.com/developer-skills/2020/ - Developer data from HackerRank from 2020  
 
 ## Big O Notation  
-https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation  
 https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/  
 https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174  
 https://www.bigocheatsheet.com/  
