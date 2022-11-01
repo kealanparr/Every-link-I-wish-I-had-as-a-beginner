@@ -588,7 +588,6 @@ https://www.swyx.io/big-l-notation/
 https://overreacted.io/things-i-dont-know-as-of-2018/ - Dan Abramov talking about what he doesn't know  
 
 ## I want to review some software laws
-https://www.hyrumslaw.com/ - Hyrums Law  
 https://en.wikipedia.org/wiki/Peter_principle - Peter Principle  
 https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/ - 10 commandments of egoless programming  
 https://meta.wikimedia.org/wiki/Cunningham%27s_Law - Cunningham's Law  
