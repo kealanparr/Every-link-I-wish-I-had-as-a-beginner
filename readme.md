@@ -357,7 +357,6 @@ https://www.thebeastisback.com/
 https://www.sidehustlenation.com/  
 https://www.quinntonharris.com/  
 https://www.seanhalpin.design/  
-http://www.pascalvangemert.nl/#/abilities  
 https://animalmade.com/  
 https://moonfarmer.com/  
 
@@ -1088,7 +1087,6 @@ https://gist.github.com/maxogden/4bed247d9852de93c94c
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators  
 ### JS tips and tidbits
 https://github.com/nas5w/javascript-tips-and-tidbits#closures  
-https://bonsaiden.github.io/JavaScript-Garden/ - Quirky bits of JS  
 ### this keyword
 https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth  
 ### Inheritance
