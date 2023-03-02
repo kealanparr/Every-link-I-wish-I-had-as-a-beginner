@@ -309,7 +309,7 @@ https://sive.rs/up2you - Assume no-one is going to help you. Don't wait for Supe
 https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4 - Motivation to get your first job, and pursue mastery  
 https://jamesclear.com/goals-systems - Forget setting goals, focus on systems  
 https://rejected.us/ - Don't get down by rejection  
-https://www.youtube.com/watch?v=ZXsQAXx_ao0&ab_channel=MotivaShian - Do it  
+https://www.youtube.com/watch?v=ZXsQAXx_ao0 - Do it  
 https://startupbros.com/killing-the-7-motivation-murderers/ - Kill the 7 motivation murders  
 > There is no magic pill to start working hard. But let the below inspire you  
   
@@ -318,7 +318,7 @@ https://startupbros.com/killing-the-7-motivation-murderers/ - Kill the 7 motivat
 "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your identity. This is why habits are crucial. They cast repeated votes for being a type of person." (https://twitter.com/jamesclear/status/1048612840615997441)
   
 https://github.com/jyguyomarch/awesome-productivity - Awesome list of resources on productivity  
-https://www.youtube.com/watch?v=OoA4017M7WU&ab_channel=Bite-sizedPhilosophy - How much time do you waste?  
+https://www.youtube.com/watch?v=OoA4017M7WU - How much time do you waste?  
 https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to - A rant from a software architect passing along insight  
 https://www.reddit.com/r/cscareerquestions/comments/8ufm10/tip_fake_it_til_you_make_it_refers_to_emotions/ - Fake it till you make it refers to emotions, not skills  
 https://www.reddit.com/r/GetMotivated/comments/7iz8nn/image_from_the_5th_book_of_marcus_aurelius/ - Marcus Aurelius' meditations on motivation  
@@ -326,7 +326,7 @@ https://www.rickwest.co.uk/first-web-development-job/ - Get your first job inspi
 https://www.reddit.com/r/getdisciplined/comments/8cnv4l/discussion_i_finally_found_out_what_was_wrong/ - Take the pressure off yourself, and enjoy the proccess  
 https://www.reddit.com/r/getdisciplined/comments/7zwaf4/method_harvard_research_gives_clues_on_how_to_be/ - Harvard Research gives clues on how to be successful and have fun doing it  
 https://www.freecodecamp.org/news/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d/ - Learn how someone failed technical interviews to get 5 job offers  
-https://www.youtube.com/watch?v=LiMNSJtk1js&ab_channel=TheSchoolofLife - You still have time to change career!  
+https://www.youtube.com/watch?v=LiMNSJtk1js - You still have time to change career!  
 https://www.freecodecamp.org/news/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e/ - Why so many developers quit before even getting a job  
 https://www.reddit.com/r/GetMotivated/comments/6rhrip/image_why_to_never_give_up/ - Why to never give up  
 https://www.reddit.com/r/learnprogramming/comments/7cokyr/i_have_been_rejected_by_over_100_jobs_in_my_past/ - I have been rejected from 100 interviews. Never give up  
@@ -386,7 +386,7 @@ https://github.com/learn-anything/books - Awesome list to learn any topic. Comp 
 https://github.com/AB1908/CS-Books  - Awesome list of Comp sci books  
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html  
 ### If you are only going to read one, read this one
-https://www.learninpublic.org/?from=DEV.to - Easily the best technical book I have ever read  
+https://www.learninpublic.org - Easily the best technical book I have ever read  
 ### Or a selection of my favorites
 https://github.com/Michael0x2a/curated-programming-resources    
 https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
@@ -463,7 +463,7 @@ https://www.freecodecamp.org/news/best-online-courses/ - Covering computer scien
 https://github.com/public-apis/public-apis - An enormous list of API's to flex your skills  
 
 # Go through planning my first coding project, and coding it up with help
-https://www.youtube.com/watch?v=bcPahhyYEIk&ab_channel=freeCodeCamp.org  
+https://www.youtube.com/watch?v=bcPahhyYEIk 
 
 ## Find a free Computer Science degree
 https://teachyourselfcs.com/  
@@ -488,9 +488,9 @@ https://refactoringui.com/
 https://chriscoyier.net/blog/  
 
 ## Find the best talks in JS
-https://www.youtube.com/watch?v=JEq7Ehw-qk8&ab_channel=LearnCode.academy  
-https://www.youtube.com/watch?v=u4IdoBU1uKE&feature=player_embedded&ab_channel=YUILibrary  
-https://www.youtube.com/watch?v=eUtsgUrF-ec&feature=player_embedded&ab_channel=YUILibrary  
+https://www.youtube.com/watch?v=JEq7Ehw-qk8  
+https://www.youtube.com/watch?v=u4IdoBU1uKE  
+https://www.youtube.com/watch?v=eUtsgUrF-ec  
 
 ## Find a community
 https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/ - freeCodeCamp discord  
@@ -643,7 +643,7 @@ https://www.toptal.com/go/interview-questions
 ## Laugh
 https://www.destroyallsoftware.com/talks/wat  
 https://youtu.be/y8OnoxKotPQ   
-https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f?gi=e31701e17ad9  
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f  
 https://circleci.com/blog/its-the-future/  
 https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/  
 ## Be a Tech Lead
@@ -779,10 +779,10 @@ https://github.com/amrrs/For-Data-Science-Beginners - Awesome list about resourc
 
 ## Internet overview
 https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm  
-https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/?fbclid=IwAR0y7WisVnujlEkN-zjpsaWnngMbtr-FMLkrHusVaeJ5x1digcD-k2FMuCI  
+https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/  
 
 ## CORS
-https://www.youtube.com/watch?v=jDE0cntjOq8&ab_channel=AppCheckNG  
+https://www.youtube.com/watch?v=jDE0cntjOq8  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS   
 
 ## How to learn  
@@ -807,11 +807,11 @@ https://regexone.com/
 ## Architecture and design patterns
 https://github.com/simskij/awesome-software-architecture  
 https://stackify.com/n-tier-architecture/  
-https://www.youtube.com/watch?v=I0AaeotjVGU&feature=youtu.be&ab_channel=Udacity  
+https://www.youtube.com/watch?v=I0AaeotjVGU  
 https://en.wikipedia.org/wiki/Anti-pattern  
 https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/  
 https://codewithshadman.com/cqrs/  
-https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/?fbclid=IwAR1slPdsHvBQMI9sqZFIuum20X46GojX6K8w9ZTscL0UJPnicwOGyK714OQ  
+https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course  
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
 https://htdp.org/2020-8-1/Book/part_epilogue.html  
 
@@ -840,7 +840,7 @@ https://flaviocopes.com/requestanimationframe/
 https://developers.google.com/web/fundamentals/performance/rendering/  
 https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame   
 ## Event loop
-https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf - What the heck is the event loop anyway?  
+https://www.youtube.com/watch?v=8aGhZQkoFbQ - What the heck is the event loop anyway?  
 https://vimeo.com/254947206 - Jake Archibald on the event loop
 http://latentflip.com/loupe/  - A code sandbox to show the event loop  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop - A good article explaining the eventloop
@@ -856,7 +856,7 @@ https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryptio
 ## Algo and data structs
 ### Intro to algo's and data structs
 https://github.com/gaerae/awesome-algorithms-education - Awesome list about algo & data structs resources  
-https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp&ab_channel=StevenSkiena
+https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp
 ### Practice and courses
 https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/  
 https://github.com/trekhleb/javascript-algorithms  
@@ -886,8 +886,8 @@ https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustratio
 https://www.bigocheatsheet.com/  
 
 ## Ethical Hacking/ Pen testing
-https://www.youtube.com/watch?v=2_lswM1S264&ab_channel=freeCodeCamp.org   
-https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org  
+https://www.youtube.com/watch?v=2_lswM1S264   
+https://www.youtube.com/watch?v=3Kq1MIfTWCE  
 
 ## Competitive programming
 https://www.topcoder.com/community/competitive-programming/tutorials/  
@@ -923,8 +923,8 @@ https://github.com/jamiebuilds/the-super-tiny-compiler
 https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms/  
 https://towardsdatascience.com/how-im-learning-deep-learning-in-2017-part-1-632f4187ce4c  
 https://www.mrdbourke.com/mlcourse/  
-https://www.udacity.com/course/deep-learning-nanodegree--nd101?irclickid=x2tXEkSb7xyOWzVwUx0Mo3EAUkiSxwWFnxoG2w0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=2452226&type=  
-https://www.coursera.org/specializations/deep-learning/?siteID=EBOQAYvGY4A-CZk7TATLvBfdZnDu2EmtDg&utm_content=3&utm_medium=partners&utm_source=linkshare&utm_campaign=EBOQAYvGY4A  
+https://www.udacity.com/course/deep-learning-nanodegree--nd101  
+https://www.coursera.org/specializations/deep-learning  
 
 ## Good coding standards  
 https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/  
@@ -934,7 +934,7 @@ https://www.freecodecamp.org/news/how-to-become-an-astounding-junior-developer/
 https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to  
 
 ## Databases  
-https://www.youtube.com/watch?v=j-iq40QBJy8&ab_channel=CS186Berkeley  
+https://www.youtube.com/watch?v=j-iq40QBJy8  
 https://www.udacity.com/course/intro-to-relational-databases--ud197  
 https://www.edx.org/course/databases-5-sql  
 ### How does RDBMS work?  
@@ -950,7 +950,7 @@ https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/ - 
 ## Networks
 https://github.com/nyquist/awesome-networking  
 https://www.freecodecamp.org/news/free-computer-networking-course/ - Start here  
-https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/?pldnSite=1  
+https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/  
 https://gaia.cs.umass.edu/kurose_ross/wireshark.htm  
 https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z  
 
@@ -970,20 +970,20 @@ https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 http://www.ee.surrey.ac.uk/Teaching/Unix/  
 
 ## AI
-https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898?irclickid=x2tXEkSb7xyOWzVwUx0Mo3EAUkiSxwWpnxoG2w0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=2452226&type=  
+https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898  
 https://www.fast.ai/  
 
 ## Accessibility
 https://www.udacity.com/course/web-accessibility--ud891  
 
 ## Resources to build my YouTube
-https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/?fbclid=IwAR3o2Xw69CSzQPj6syQhqMs5HK8sy51RU7yEb7O_yRRWabwvCF4NWFv0Q6E  
+https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel  
 
 ## How to contribute to open source
 https://github.com/freeCodeCamp/how-to-contribute-to-open-source  
 
 ## Distributed systems
-https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&ab_channel=MIT6.824%3ADistributedSystems  
+https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB  
 
 ## Machine learning
 https://www.coursera.org/learn/machine-learning - A diary for an aspiring dev  
@@ -996,7 +996,7 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 
 ## Fundamentals of comp sci
 https://www.edx.org/course/cs50s-introduction-to-computer-science  
-https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&siteID=SAyYsTvLiGQ-_8Zeg9Uyt2l0hC.kPHRFZA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ  
+https://www.coursera.org/learn/learn-to-program  
 ### Queueing theory 
 https://github.com/joelparkerhenderson/queueing_theory  
 
@@ -1069,7 +1069,7 @@ https://www.amazon.com/gp/product/1617294438
 https://www.freecodecamp.org/news/the-python-guide-for-beginners/  
 https://automatetheboringstuff.com/  
 ### Data science with Python  
-https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=444977-105c29  
+https://www.datacamp.com  
 https://www.udacity.com/course/intro-to-data-science--ud359  
 https://www.coursera.org/specializations/data-science-python  
 ## JavaScript  
@@ -1095,7 +1095,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prot
 ### Modules
 https://ui.dev/javascript-modules-iifes-commonjs-esmodules/  
 ### JS engine
-https://www.youtube.com/watch?v=p-iiEDtpy6I&ab_channel=JSConf  
+https://www.youtube.com/watch?v=p-iiEDtpy6I  
 https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/  
 ### Race conditions
 https://medium.com/@slavik57/async-race-conditions-in-javascript-526f6ed80665  
@@ -1123,7 +1123,7 @@ https://codepip.com/games/sherlock-scopes/
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises  
 ### Functional JS
-https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&ab_channel=FunFunFunction  
+https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84  
 ### TypeScript
 https://react-etc.net/files/typescript-book/typescript.pdf  
 https://basarat.gitbook.io/typescript/  
