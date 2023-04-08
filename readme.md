@@ -356,7 +356,6 @@ https://www.garicruze.com/
 https://www.thebeastisback.com/  
 https://www.sidehustlenation.com/  
 https://www.quinntonharris.com/  
-https://www.seanhalpin.design/  
 https://animalmade.com/  
 https://moonfarmer.com/  
 
