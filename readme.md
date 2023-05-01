@@ -331,7 +331,6 @@ https://www.freecodecamp.org/news/why-so-many-developers-quit-before-ever-gettin
 https://www.reddit.com/r/GetMotivated/comments/6rhrip/image_why_to_never_give_up/ - Why to never give up  
 https://www.reddit.com/r/learnprogramming/comments/7cokyr/i_have_been_rejected_by_over_100_jobs_in_my_past/ - I have been rejected from 100 interviews. Never give up  
 https://dev.to/ben/its-perfectly-fine-to-only-code-at-work-dont-let-anyone-tell-you-otherwise--25i3 - It's fine to only code at work!  
-https://i.imgur.com/yNLCC90.jpg - Fascinating path of Elon Musk's journey to success  
 https://www.stilldrinking.org/programming-sucks - Programming can suck sometimes!  
 https://www.freecodecamp.org/news/how-to-use-deliberate-practice-to-learn-programming-fast/ - Use Deliberate Practice to improve  
 https://www.reddit.com/r/learnprogramming/comments/7yltpt/read_this_if_you_feel_perpetually_stuck_in_the/ - Read this if you feel perpetually stuck in the beginner phase  
