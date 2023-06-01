@@ -477,7 +477,6 @@ https://github.com/PizzaPokerGuy/ultimate-coding-resources
 
 ### Find the best blogs
 https://ozwrites.com/  
-https://shiffman.net/a2z/  
 https://jakearchibald.com/  
 https://apptension.com/blog/  
 https://50linesofco.de/  
