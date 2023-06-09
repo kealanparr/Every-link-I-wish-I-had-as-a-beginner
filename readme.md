@@ -26,14 +26,14 @@ While this resource is helpful to provide useful guidelines of where to find qua
 # Contents
 #### [I am a](#I-am-a-1)
 [Beginner looking to start at the very start](#Beginner-looking-to-start-at-the-very-start)  
-[Junior to regular developer - Front end](#Junior-to-regular-developer)  
-[Regular to Senior - Front end](#Regular-to-Senior-developer)  
-[Junior to regular developer - Back end](#Junior-to-regular-developer-1)  
-[Regular to Senior developer - Back end](#Regular-to-Senior-developer-1)  
-[Junior to regular developer - Dev ops](#Junior-to-regular-developer-2)  
-[Regular to Senior - Dev ops](#Regular-to-Senior-developer-2)  
-[Junior to regular developer - React native dev](#Junior-to-regular-developer-3)  
-[Regular to Senior - React native dev](#Regular-to-Senior-developer-3)  
+[Junior to Mid-level Developer - Front end](#Junior-to-regular-developer)  
+[Mid to Senior - Front end](#Regular-to-Senior-developer)  
+[Junior to Mid-level Developer - Back end](#Junior-to-regular-developer-1)  
+[Mid to Senior developer - Back end](#Regular-to-Senior-developer-1)  
+[Junior to Mid-level Developer - Dev ops](#Junior-to-regular-developer-2)  
+[Mid to Senior - Dev ops](#Regular-to-Senior-developer-2)  
+[Junior to Mid-level Developer - React native dev](#Junior-to-regular-developer-3)  
+[Mid to Senior - React native dev](#Regular-to-Senior-developer-3)  
 [In a senior technical position looking to move to Staff](#In-a-senior-technical-position-looking-to-move-to-Staff-1)  
 #### [I have](#I-have-1)
 [RSI sympytoms](#RSI-sympytoms)  
@@ -263,28 +263,28 @@ https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/ - How to 
 https://www.progression.fyi/ - A large overview of technical companies expectations for career progression  
 
 ## Front end developer
-### Junior to regular developer 
+### Junior to Mid-level Developer 
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md - A technical roadmap (useful as a base)  
-https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/ - An article on how to go from junior to regular developer  
-###  Regular to Senior developer
+https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/ - An article on how to go from Junior to Mid-level Developer  
+###  Mid to Senior developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Frontend%20Developer.md - A technical roadmap (useful as a base)  
 
 ## Back end developer
-### Junior to regular developer
+### Junior to Mid-level Developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Backend%20Developer.md - A technical roadmap (useful as a base)  
-###  Regular to Senior developer
+###  Mid to Senior developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Backend%20Developer.md - A technical roadmap (useful as a base)  
 
 ## Dev ops developer
-### Junior to regular developer
+### Junior to Mid-level Developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md - A technical roadmap (useful as a base)  
-###  Regular to Senior developer
+###  Mid to Senior developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/DevOps%20Developer.md - A technical roadmap (useful as a base)  
 
 ## React native app developer
-### Junior to regular developer
+### Junior to Mid-level Developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md - A technical roadmap (useful as a base)  
-###  Regular to Senior developer
+###  Mid to Senior developer
 https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md - A technical roadmap (useful as a base)  
 
 ## In a senior technical position looking to move to Staff
