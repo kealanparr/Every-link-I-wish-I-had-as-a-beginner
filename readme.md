@@ -714,7 +714,6 @@ http://www.gainlo.co/ - Prepare for mock interviews with real interviewers
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/css-questions.md  
 ### Generic questions  
 https://github.com/MaximAbramchuck/awesome-interview-questions  - Awesome list of interview questions  
-https://triplebyte.com/users/start  
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/general-questions.md  
 #### TypeScript  
 https://medium.com/javascript-in-plain-english/top-19-frequently-asked-typescript-interview-questions-dac4ff30c017  
