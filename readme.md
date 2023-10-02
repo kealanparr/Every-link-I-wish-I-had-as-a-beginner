@@ -229,7 +229,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Helps to rubber duck your code](#Helps-to-rubber-duck-your-code)  
 [The cost of JavaScript in the browser](#The-cost-of-JavaScript-in-the-browser)  
 [Essential graphing algo's in JavaScript](#Essential-graphing-algos-in-JavaScript)  
-[Scope](#Scope)  
 [Promises](#Promises)  
 [Functional JS](#Functional-JS)  
 #### [TypeScript](#TypeScript-1)
@@ -404,7 +403,6 @@ https://github.com/christopherkade/awesome-dev-websites
 https://github.com/AB1908/CS-Books  
 https://github.com/Ibexoft/awesome-startup-tools-list  
 https://github.com/nyquist/awesome-networking  
-https://github.com/Gherciu/awesome-sites  
 https://github.com/ythecombinator/You-Dont-Know-X  
 https://github.com/swapagarwal/awesome-inspiration  
 https://github.com/bmarvinb/awesome-interview-questions  
@@ -478,7 +476,6 @@ https://github.com/PizzaPokerGuy/ultimate-coding-resources
 https://ozwrites.com/  
 https://jakearchibald.com/  
 https://apptension.com/blog/  
-https://50linesofco.de/  
 https://geekonaut.de/  
 https://refactoringui.com/  
 https://chriscoyier.net/blog/  
@@ -1112,8 +1109,6 @@ https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 https://v8.dev/blog/cost-of-javascript-2019
 ### Essential graphing algo's in JavaScript
 https://www.freecodecamp.org/news/8-essential-graph-algorithms-in-javascript/  
-### Scope
-https://codepip.com/games/sherlock-scopes/  
 ### Promises
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises  
