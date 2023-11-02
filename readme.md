@@ -240,7 +240,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [ES6 Spec](#ES6-Spec)  
 [Learn ES6](#Learn-ES6)  
 [One pager of es6 changes](#One-pager-of-es6-changes)  
-[es6 support](#es6-support)  
 [Overview of es6 features](#Overview-of-es6-features)  
 #### [Kotlin](#Kotlin-1)
 
@@ -392,7 +391,6 @@ https://github.com/getify/You-Dont-Know-JS
 https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
 https://eloquentjavascript.net/ - Eloquent JavaScript  
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - The quintessential book on technical interviews  
-https://www.e-reading.club/bookreader.php/137202/Pragmatic_Thinking_and_Learning_-_Refactor_Your_Wetware.pdf - Refactor your wetware  
 
 ## Find links to other big lists
 ### The best collection for every useful worthwhile list
@@ -1141,8 +1139,6 @@ https://www.ecma-international.org/ecma-262/6.0/
 https://github.com/ericdouglas/ES6-Learning  
 ### One pager of es6 changes  
 https://espadrine.github.io/New-In-A-Spec/es6/  
-### es6 support  
-https://kangax.github.io/compat-table/es6/  
 ### Overview of es6 features  
 https://github.com/lukehoban/es6features 
 
