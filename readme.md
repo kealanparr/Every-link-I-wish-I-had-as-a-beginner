@@ -146,7 +146,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 [Operating systems](#Operating-systems)  
 [Data analytics](#Data-analytics)  
 [Block-chain](#Block-chain)  
-[Unix/Linux basics](#UnixLinux-basics)  
 [AI](#AI)  
 [Accessibility](#Accessibility)  
 [Resources to build my YouTube](#Resources-to-build-my-YouTube)  
@@ -213,7 +212,6 @@ While this resource is helpful to provide useful guidelines of where to find qua
 #### [JavaScript](#JavaScript-1)
 [Great lists to have as a JS dev](#Great-lists-to-have-as-a-JS-dev)  
 [Prototypal inheritance](#Prototypal-inheritance)  
-[Hoisting](#Hoisting)  
 [ES6 iterators and generators](#ES6-iterators-and-generators)  
 [JS tips and tidbits](#JS-tips-and-tidbits)    
 [this keyword](#this-keyword)  
@@ -649,7 +647,6 @@ https://github.com/cassidoo/getting-a-gig - How to get a gig as a student
 ### General
 http://www.gainlo.co/ - Mock interviews with talented engineers  
 https://www.facet.net/ - Passively search for your next job  
-https://jobs.mashable.com/jobs  
 https://indeed.com  
 https://linkedIn.com  
 https://glassdoor.com  
@@ -807,7 +804,6 @@ https://htdp.org/2020-8-1/Book/part_epilogue.html
 
 ## Browsers + Performance
 https://htmlparser.info/ - HTML parsing  
-https://eu.udacity.com/course/browser-rendering-optimization--ud860 - Building 60fps web apps  
 https://github.com/wilsonpage/fastdom - Batch DOM access  
 https://tinyurl.com/kn5t6pu - Render-tree Construction, Layout, and Paint   
 https://tinyurl.com/yconu6ua - JavaScript Start-up Optimization   
@@ -956,9 +952,6 @@ https://www.freecodecamp.org/news/a-30-000-foot-introduction-to-data-analytics-a
 https://www.freecodecamp.org/news/the-authoritative-guide-to-blockchain-development-855ab65b58bc/  
 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46  
 
-## Unix/Linux basics
-http://www.ee.surrey.ac.uk/Teaching/Unix/  
-
 ## AI
 https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898  
 https://www.fast.ai/  
@@ -1036,8 +1029,6 @@ https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70  
 ### Basic project ideas  
 https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/  
-### Event loop in the node env  
-https://nodejs.org/uk/docs/guides/event-loop-timers-and-nexttick/  
 ## React  
 https://github.com/benmvp/react-workshop    
 https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/  
@@ -1071,8 +1062,6 @@ https://github.com/sorrycc/awesome-javascript - Awesome list about JS libraries 
 https://github.com/didicodes/javascript-dev-bookmarks - Awesome list about JS bookmarks to help you out   
 ### Prototypal inheritance  
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-### Hoisting
-https://gist.github.com/maxogden/4bed247d9852de93c94c  
 ### ES6 iterators and generators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators  
 ### JS tips and tidbits
