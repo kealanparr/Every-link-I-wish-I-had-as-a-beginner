@@ -635,6 +635,7 @@ https://youtu.be/y8OnoxKotPQ
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f  
 https://circleci.com/blog/its-the-future/  
 https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/  
+https://grugbrain.dev/  
 ## Be a Tech Lead
 com/work/thriving-on-the-technical-leadership-path/  
 https://no.lol/2019-03-09-should-i-become-a-tech-lead/  
