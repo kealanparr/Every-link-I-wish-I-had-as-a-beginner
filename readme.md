@@ -384,9 +384,7 @@ https://www.learninpublic.org - Easily the best technical book I have ever read
 https://github.com/Michael0x2a/curated-programming-resources    
 https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
 http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective    
-https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf - Data structures and algorithms in Java  
 https://github.com/getify/You-Dont-Know-JS  
-https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
 https://eloquentjavascript.net/ - Eloquent JavaScript  
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - The quintessential book on technical interviews  
 
@@ -670,8 +668,6 @@ https://weworkremotely.com
 https://remoteok.io  
 https://jsremotely.com  
 https://remoteleaf.com  
-https://remoteleads.io    
-https://wfh.io  
 https://dailyremote.com  
 ### Women focused job boards
 https://hiretechladies.com  
