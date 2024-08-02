@@ -350,7 +350,6 @@ http://www.garysheng.com/
 https://www.garicruze.com/  
 https://www.thebeastisback.com/  
 https://www.sidehustlenation.com/  
-https://www.quinntonharris.com/  
 https://animalmade.com/  
 
 <!-- Section I have: END -->
@@ -661,7 +660,7 @@ https://devitjobs.uk
 https://devitjobs.us
 
 ### Remote jobs
-https://remoters.net/jobs/software-development…  
+https://remoters.net/  
 https://weworkremotely.com  
 https://justremote.co  
 https://weworkremotely.com  
