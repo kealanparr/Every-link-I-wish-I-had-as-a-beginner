@@ -429,7 +429,6 @@ https://github.com/gaerae/awesome-algorithms-education
 https://github.com/kryz81/awesome-nodejs-learning  
 https://github.com/lnishan/awesome-competitive-programming  
 https://github.com/aalhour/awesome-compilers  
-https://github.com/didicodes/javascript-dev-bookmarks  
 https://github.com/sindresorhus/awesome  
 https://github.com/jnv/lists  
 https://github.com/sorrycc/awesome-javascript  
@@ -1055,7 +1054,6 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://github.com/micromata/awesome-javascript-learning - Awesome list of JS learning resources  
 ### Great lists to have as a JS dev
 https://github.com/sorrycc/awesome-javascript - Awesome list about JS libraries and resources  
-https://github.com/didicodes/javascript-dev-bookmarks - Awesome list about JS bookmarks to help you out   
 ### Prototypal inheritance  
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 ### ES6 iterators and generators
