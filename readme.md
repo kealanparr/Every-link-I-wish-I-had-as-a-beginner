@@ -381,7 +381,6 @@ https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 https://www.learninpublic.org - Easily the best technical book I have ever read  
 ### Or a selection of my favorites
 https://github.com/Michael0x2a/curated-programming-resources    
-https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
 http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective    
 https://github.com/getify/You-Dont-Know-JS  
 https://eloquentjavascript.net/ - Eloquent JavaScript  
@@ -468,7 +467,6 @@ https://github.com/PizzaPokerGuy/ultimate-coding-resources
 https://ozwrites.com/  
 https://jakearchibald.com/  
 https://apptension.com/blog/  
-https://geekonaut.de/  
 https://refactoringui.com/  
 https://chriscoyier.net/blog/  
 
@@ -878,7 +876,6 @@ https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
 https://www.khanacademy.org/math  
 ### Linear algebra  
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
-http://joshua.smcvt.edu/linearalgebra/book.pdf  
 https://www.khanacademy.org/math/linear-algebra  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
@@ -902,7 +899,6 @@ https://github.com/jamiebuilds/the-super-tiny-compiler
 ## Deep learning  
 ### Key concepts
 https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms/  
-https://towardsdatascience.com/how-im-learning-deep-learning-in-2017-part-1-632f4187ce4c  
 https://www.mrdbourke.com/mlcourse/  
 https://www.udacity.com/course/deep-learning-nanodegree--nd101  
 https://www.coursera.org/specializations/deep-learning  
