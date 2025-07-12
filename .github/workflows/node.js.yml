@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [22.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
     steps:
       - uses: actions/checkout@v4
@@ -17,8 +17,7 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-      # - run: echo "It entered the job! The yaml isn't borked 🎉" helped me debug yaml validity
-      # - run: echo $(ls) helped me debug why it wasnt finding package.json
+      - run: echo "It entered the job! The yaml isn't borked 🎉" # helped me debug yaml validity
       - run: npm install
       - run: node ./index
       - run: git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
