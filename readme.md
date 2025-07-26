@@ -500,6 +500,7 @@ https://devrant.com/feed - Get inside dev's head and their frustrations
 ## Find project ideas  
 ### General  
 https://github.com/danistefanovic/build-your-own-x  
+https://github.com/karan/Projects  
 ## JavaScript  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/  
