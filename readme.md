@@ -976,6 +976,11 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 ## Fundamentals of comp sci
 https://www.edx.org/course/cs50s-introduction-to-computer-science  
 https://www.coursera.org/learn/learn-to-program  
+https://github.com/jeffgerickson/algorithms/blob/master/Algorithms-JeffE.pdf  
+https://github.com/ossu/computer-science  
+https://github.com/ForrestKnight/open-source-cs  
+https://teachyourselfcs.com/  
+
 ### Queueing theory 
 https://github.com/joelparkerhenderson/queueing_theory  
 
