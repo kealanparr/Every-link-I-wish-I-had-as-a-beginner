@@ -377,6 +377,10 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A - Siraj Raval
 https://github.com/learn-anything/books - Awesome list to learn any topic. Comp sci included  
 https://github.com/AB1908/CS-Books  - Awesome list of Comp sci books  
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html  
+https://devfreebooks.github.io  
+https://books.goalkicker.com/  
+ https://github.com/EbookFoundation/free-programming-books  
+
 ### If you are only going to read one, read this one
 https://www.learninpublic.org - Easily the best technical book I have ever read  
 ### Or a selection of my favorites
