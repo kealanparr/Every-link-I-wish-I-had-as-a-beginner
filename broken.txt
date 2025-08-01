@@ -1,1 +1,92 @@
-
+https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md
+https://www.reddit.com/r/cscareerquestions/comments/8ufm10/tip_fake_it_til_you_make_it_refers_to_emotions/
+https://www.reddit.com/r/GetMotivated/comments/7iz8nn/image_from_the_5th_book_of_marcus_aurelius/
+https://www.reddit.com/r/getdisciplined/comments/8cnv4l/discussion_i_finally_found_out_what_was_wrong/
+https://www.reddit.com/r/getdisciplined/comments/7zwaf4/method_harvard_research_gives_clues_on_how_to_be/
+https://www.reddit.com/r/learnprogramming/comments/7cokyr/i_have_been_rejected_by_over_100_jobs_in_my_past/
+https://www.reddit.com/r/GetMotivated/comments/6rhrip/image_why_to_never_give_up/
+https://www.reddit.com/r/learnprogramming/comments/7yltpt/read_this_if_you_feel_perpetually_stuck_in_the/
+https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_welcome
+http://guanzhou.pub/files/Computer%20System_EN.pdf
+https://heydesigner.com/
+https://medium.com/topic/programming
+https://www.udemy.com/the-modern-python3-bootcamp/learn/v4/overview
+https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/
+404 -> https://meta.wikimedia.org/wiki/Cunningham%27s_Law
+https://www.firecode.io/
+https://www.udacity.com/
+https://www.upwork.com/resources/beginners-guide-back-end-development
+https://www.toptal.com/go/interview-questions
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Backend%20Developer.md
+https://www.facet.net/
+https://indeed.com
+https://glassdoor.com
+https://simplyhired.com
+https://toptal.com
+https://weworkremotely.com
+https://weworkremotely.com
+https://mlh.io/
+https://leetcode.com/problemset/all/
+https://www.hackerrank.com/
+https://www.learninpublic.org
+https://regexr.com/
+https://medium.com/javascript-in-plain-english/top-19-frequently-asked-typescript-interview-questions-dac4ff30c017
+https://www.toptal.com/javascript/interview-questions
+https://www.reddit.com/r/LifeProTips/comments/1azes7/lpt_6_responses_to_when_an_interviewer_asks_you/
+https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,27.htm
+https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm
+https://www.udacity.com/course/browser-rendering-optimization--ud860
+https://www.udemy.com/topic/kubernetes/?price=price-free&sort=popularity
+https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
+https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/
+https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+https://www.udacity.com/course/introduction-to-operating-systems--ud923
+https://www.udacity.com/course/deep-learning-nanodegree--nd101
+https://www.udacity.com/course/intro-to-relational-databases--ud197
+https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898
+https://neilpatel.com/blog/google-analytics-data-errors/
+https://www.udacity.com/course/web-accessibility--ud891
+https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+https://www.udemy.com/course/ios-13-app-development-bootcamp/
+https://matteomanferdini.com/become-an-ios-developer/
+https://www.reddit.com/r/node/comments/af65fn/what_are_some_basic_nodejs_project_that_can_be_to/
+https://www.udemy.com/course/go-the-complete-developers-guide/
+https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac
+https://www.udacity.com/course/introduction-to-python--ud1110
+https://www.datacamp.com
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb
+https://www.udacity.com/course/intro-to-data-science--ud359
+https://medium.com/@slavik57/async-race-conditions-in-javascript-526f6ed80665
+https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+https://medium.com/@sterlingcobb/typescript-intersection-and-union-types-combined-e658e728d43a
+https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+https://www.udacity.com/course/advanced-android-with-kotlin--ud940
+https://twitter.com/jamesclear/status/952316052599427072
+https://twitter.com/jamesclear/status/1048612840615997441)
+https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
+https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.i500mt6fg
+https://cgcookie.com/course/introduction-to-rendering
+https://research.hackerrank.com/developer-skills/2018/
+https://research.hackerrank.com/developer-skills/2020/
+https://research.hackerrank.com/developer-skills/2019/
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
+https://university.webflow.com/lesson/intro-to-the-box-model
+https://remoteok.io
+https://insights.stackoverflow.com/survey/2018#technology-most-popular-developer-environments-by-occupation
+https://flexjobs.com
+https://insights.stackoverflow.com/survey/2020#technology-most-popular-developer-environments-by-occupation
