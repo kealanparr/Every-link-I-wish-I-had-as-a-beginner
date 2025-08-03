@@ -379,11 +379,10 @@ https://github.com/learn-anything/books - Awesome list to learn any topic. Comp 
 https://github.com/AB1908/CS-Books  - Awesome list of Comp sci books  
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html  
 ### If you are only going to read one, read this one
-https://www.learninpublic.org - Easily the best technical book I have ever read  
+https://swyx.gumroad.com/l/bAZJq - Easily the best technical book I have ever read (no commission, just honest)  
 ### Or a selection of my favorites
 https://github.com/Michael0x2a/curated-programming-resources    
 https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
-http://guanzhou.pub/files/Computer%20System_EN.pdf - Computer Systems: A Programmer's Perspective    
 https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf - Data structures and algorithms in Java  
 https://github.com/getify/You-Dont-Know-JS  
 https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
@@ -647,7 +646,6 @@ https://github.com/jwasham/coding-interview-university#coding-question-practice.
 https://github.com/cassidoo/getting-a-gig - How to get a gig as a student  
 ### General
 http://www.gainlo.co/ - Mock interviews with talented engineers  
-https://www.facet.net/ - Passively search for your next job  
 https://indeed.com  
 https://linkedIn.com  
 https://glassdoor.com  
@@ -666,7 +664,6 @@ https://devitjobs.us
 https://remoters.net/jobs/software-development…  
 https://weworkremotely.com  
 https://justremote.co  
-https://weworkremotely.com  
 https://remoteok.io  
 https://jsremotely.com  
 https://remoteleaf.com  
