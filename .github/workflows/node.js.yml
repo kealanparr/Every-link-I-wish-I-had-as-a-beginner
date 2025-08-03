@@ -9,23 +9,23 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [22.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm install
-    - run: node ./index
-    - run: git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    - run: git config --local user.name "github-actions[bot]"
-    - run: git add broken.txt
-    - run: git commit -m "GitHub actions link rot prevention"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: 'npm'
+      - run: echo "It entered the job! The yaml isn't borked 🎉" # helped me debug yaml validity
+      - run: npm install
+      - run: node ./index
+      - run: git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: git config --local user.name "github-actions[bot]"
+      - run: git add broken.txt
+      - run: git commit -m "GitHub actions link rot prevention"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

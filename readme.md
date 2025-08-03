@@ -350,7 +350,6 @@ http://www.garysheng.com/
 https://www.garicruze.com/  
 https://www.thebeastisback.com/  
 https://www.sidehustlenation.com/  
-https://www.quinntonharris.com/  
 https://animalmade.com/  
 
 <!-- Section I have: END -->
@@ -378,14 +377,15 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A - Siraj Raval
 https://github.com/learn-anything/books - Awesome list to learn any topic. Comp sci included  
 https://github.com/AB1908/CS-Books  - Awesome list of Comp sci books  
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html  
+https://devfreebooks.github.io  
+https://books.goalkicker.com/  
+ https://github.com/EbookFoundation/free-programming-books  
+
 ### If you are only going to read one, read this one
 https://swyx.gumroad.com/l/bAZJq - Easily the best technical book I have ever read (no commission, just honest)  
 ### Or a selection of my favorites
 https://github.com/Michael0x2a/curated-programming-resources    
-https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf - Pragmatic Programmer    
-https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf - Data structures and algorithms in Java  
 https://github.com/getify/You-Dont-Know-JS  
-https://thestandoutdeveloper.com/ - Another one that highly impacted me as a developer to better myself and push my comfort zone  
 https://eloquentjavascript.net/ - Eloquent JavaScript  
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - The quintessential book on technical interviews  
 
@@ -431,7 +431,6 @@ https://github.com/gaerae/awesome-algorithms-education
 https://github.com/kryz81/awesome-nodejs-learning  
 https://github.com/lnishan/awesome-competitive-programming  
 https://github.com/aalhour/awesome-compilers  
-https://github.com/didicodes/javascript-dev-bookmarks  
 https://github.com/sindresorhus/awesome  
 https://github.com/jnv/lists  
 https://github.com/sorrycc/awesome-javascript  
@@ -471,7 +470,6 @@ https://github.com/PizzaPokerGuy/ultimate-coding-resources
 https://ozwrites.com/  
 https://jakearchibald.com/  
 https://apptension.com/blog/  
-https://geekonaut.de/  
 https://refactoringui.com/  
 https://chriscoyier.net/blog/  
 
@@ -505,6 +503,7 @@ https://devrant.com/feed - Get inside dev's head and their frustrations
 ## Find project ideas  
 ### General  
 https://github.com/danistefanovic/build-your-own-x  
+https://github.com/karan/Projects  
 ## JavaScript  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/use-the-twitch-json-api/  
 https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer/  
@@ -661,14 +660,12 @@ https://devitjobs.uk
 https://devitjobs.us
 
 ### Remote jobs
-https://remoters.net/jobs/software-development…  
+https://remoters.net/  
 https://weworkremotely.com  
 https://justremote.co  
 https://remoteok.io  
 https://jsremotely.com  
 https://remoteleaf.com  
-https://remoteleads.io    
-https://wfh.io  
 https://dailyremote.com  
 ### Women focused job boards
 https://hiretechladies.com  
@@ -881,7 +878,6 @@ https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
 https://www.khanacademy.org/math  
 ### Linear algebra  
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
-http://joshua.smcvt.edu/linearalgebra/book.pdf  
 https://www.khanacademy.org/math/linear-algebra  
 ### Matrices  
 https://www.khanacademy.org/math/precalculus-2018/precalc-matrices  
@@ -905,7 +901,6 @@ https://github.com/jamiebuilds/the-super-tiny-compiler
 ## Deep learning  
 ### Key concepts
 https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms/  
-https://towardsdatascience.com/how-im-learning-deep-learning-in-2017-part-1-632f4187ce4c  
 https://www.mrdbourke.com/mlcourse/  
 https://www.udacity.com/course/deep-learning-nanodegree--nd101  
 https://www.coursera.org/specializations/deep-learning  
@@ -978,6 +973,11 @@ https://www.coursera.org/specializations/gcp-data-machine-learning
 ## Fundamentals of comp sci
 https://www.edx.org/course/cs50s-introduction-to-computer-science  
 https://www.coursera.org/learn/learn-to-program  
+https://github.com/jeffgerickson/algorithms/blob/master/Algorithms-JeffE.pdf  
+https://github.com/ossu/computer-science  
+https://github.com/ForrestKnight/open-source-cs  
+https://teachyourselfcs.com/  
+
 ### Queueing theory 
 https://github.com/joelparkerhenderson/queueing_theory  
 
@@ -1057,7 +1057,6 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://github.com/micromata/awesome-javascript-learning - Awesome list of JS learning resources  
 ### Great lists to have as a JS dev
 https://github.com/sorrycc/awesome-javascript - Awesome list about JS libraries and resources  
-https://github.com/didicodes/javascript-dev-bookmarks - Awesome list about JS bookmarks to help you out   
 ### Prototypal inheritance  
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 ### ES6 iterators and generators

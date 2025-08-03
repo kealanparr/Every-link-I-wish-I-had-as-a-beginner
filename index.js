@@ -19,7 +19,7 @@ const checkResponseCode = (url) => {
 		try {
 			await axios.get(encodeURI(url));
 		} catch (err) {
-			if (err.response.status > 400) {
+			if (err.response.status > 400 && err.response.status !== 403) {
 				log(err.response.status + " -> " + url);
 			} else {
 				log(url);
