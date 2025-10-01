@@ -1,1 +1,22 @@
-
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/DevOps%20Developer.md
+404 -> https://meta.wikimedia.org/wiki/Cunningham%27s_Law
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Mobile%20Developer.md
+http://www.gainlo.co/
+502 -> https://dailyremote.com
+http://www.gainlo.co/
+https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
+https://react-etc.net/files/typescript-book/typescript.pdf
+https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
+https://insights.stackoverflow.com/survey/2018#technology-most-popular-developer-environments-by-occupation
+https://flexjobs.com
+https://insights.stackoverflow.com/survey/2019#technology-most-popular-developer-environments-by-occupation
