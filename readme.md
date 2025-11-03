@@ -1,4 +1,4 @@
-<!-- Style guide: -->
+[<!-- Style guide: -->
 <!-- Ensure all headers are consistent. No semicolons in the headers -->
 <!-- Any descriptive text has a dash, and appears at the end -->
 <!-- Make sure that anchor tags work, and don't 404 etc -->
@@ -721,7 +721,6 @@ https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/
 https://github.com/nibble0101/javascript-questions  
 https://github.com/denysdovhan/wtfjs  
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/coding-questions.md  
-https://adevait.com/javascript-developers/interview-questions  
 https://www.toptal.com/javascript/interview-questions  
 https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md  
 https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript  
@@ -1133,3 +1132,4 @@ https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
 
 <!-- Section I want to: END -->
+](https://adevait.com/javascript-developers/interview-questions)
