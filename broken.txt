@@ -1,1 +1,26 @@
-
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Backend%20Developer.md
+https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
+500 -> https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+https://devrant.com/feed
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Backend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Frontend%20Developer.md
+503 -> https://backtobackswe.com/
+401 -> https://projecteuler.net
+https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
+500 -> https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/
+500 -> https://www.amazon.com/gp/product/1617294438
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
+404 -> https://adevait.com/javascript-developers/interview-questions)
+https://grugbrain.dev/
+https://www.swyx.io/rsi-tips/
+https://chingu.io/
+https://flexjobs.com
