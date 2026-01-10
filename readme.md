@@ -1,4 +1,4 @@
-[<!-- Style guide: -->
+<!-- Style guide: -->
 <!-- Ensure all headers are consistent. No semicolons in the headers -->
 <!-- Any descriptive text has a dash, and appears at the end -->
 <!-- Make sure that anchor tags work, and don't 404 etc -->
