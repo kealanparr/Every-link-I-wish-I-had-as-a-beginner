@@ -1,25 +1,32 @@
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Frontend%20Developer.md
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Backend%20Developer.md
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Backend%20Developer.md
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/DevOps%20Developer.md
-500 -> https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Frontend%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Regular%20to%20Senior/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Guide/Junior%20to%20Regular/Mobile%20Developer.md
+429 -> https://startupbros.com/killing-the-7-motivation-murderers/
+429 -> https://github.com/topics/awesome
+429 -> https://github.com/topics/awesome-list
 404 -> https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+404 -> https://google.github.io/styleguide/lispguide.xml
+404 -> https://google.github.io/styleguide/angularjs-google-style.html
+404 -> https://google.github.io/styleguide/vimscriptguide.xml
+404 -> https://google.github.io/styleguide/xmlstyle.html
 500 -> https://devrant.com/feed
 404 -> https://blog.bettyblocks.com/7-things-developers-hate-most-about-their-job
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Backend%20Developer.md
-404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/DevOps%20Developer.md
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Mobile%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/DevOps%20Developer.md
+404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Backend%20Developer.md
 404 -> https://github.com/apptension/developer-handbook/blob/master/Technical%20Stack/Frontend%20Developer.md
-https://monster.com
+404 -> https://www.topcoder.com/community/competitive-programming/tutorials/
+https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+500 -> https://devrant.com/rants/260590/rant-after-over-20-years-as-a-software-engineer-architect-and-manager-i-want-to
 404 -> https://adevait.com/javascript-developers/interview-questions)
-429 -> https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
+404 -> https://twitter.com/jamesclear/status/1048612840615997441)
 404 -> https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 404 -> https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/
-https://insights.stackoverflow.com/survey/2017#technology-most-popular-developer-environments-by-occupation
 404 -> https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 404 -> https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
 https://remoteok.io
